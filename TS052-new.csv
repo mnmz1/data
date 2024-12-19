@@ -1,166 +1,166 @@
 la_Code,borough,occ_Rating,Observation
-E09000001,City of London,Occupancy rating of bedrooms: +2 or more,390
-E09000001,City of London,Occupancy rating of bedrooms: +1,1158
-E09000001,City of London,Occupancy rating of bedrooms: 0,3133
-E09000001,City of London,Occupancy rating of bedrooms: -1,207
-E09000001,City of London,Occupancy rating of bedrooms: -2 or less,26
-E09000002,Barking and Dagenham,Occupancy rating of bedrooms: +2 or more,10720
-E09000002,Barking and Dagenham,Occupancy rating of bedrooms: +1,19248
-E09000002,Barking and Dagenham,Occupancy rating of bedrooms: 0,30793
-E09000002,Barking and Dagenham,Occupancy rating of bedrooms: -1,10629
-E09000002,Barking and Dagenham,Occupancy rating of bedrooms: -2 or less,2512
-E09000003,Barnet,Occupancy rating of bedrooms: +2 or more,42709
-E09000003,Barnet,Occupancy rating of bedrooms: +1,40449
-E09000003,Barnet,Occupancy rating of bedrooms: 0,51793
-E09000003,Barnet,Occupancy rating of bedrooms: -1,11644
-E09000003,Barnet,Occupancy rating of bedrooms: -2 or less,2322
-E09000004,Bexley,Occupancy rating of bedrooms: +2 or more,30448
-E09000004,Bexley,Occupancy rating of bedrooms: +1,31647
-E09000004,Bexley,Occupancy rating of bedrooms: 0,27373
-E09000004,Bexley,Occupancy rating of bedrooms: -1,4934
-E09000004,Bexley,Occupancy rating of bedrooms: -2 or less,898
-E09000005,Brent,Occupancy rating of bedrooms: +2 or more,22710
-E09000005,Brent,Occupancy rating of bedrooms: +1,27337
-E09000005,Brent,Occupancy rating of bedrooms: 0,48512
-E09000005,Brent,Occupancy rating of bedrooms: -1,14926
-E09000005,Brent,Occupancy rating of bedrooms: -2 or less,5127
-E09000006,Bromley,Occupancy rating of bedrooms: +2 or more,49715
-E09000006,Bromley,Occupancy rating of bedrooms: +1,42488
-E09000006,Bromley,Occupancy rating of bedrooms: 0,37505
-E09000006,Bromley,Occupancy rating of bedrooms: -1,5425
-E09000006,Bromley,Occupancy rating of bedrooms: -2 or less,695
-E09000007,Camden,Occupancy rating of bedrooms: +2 or more,13329
-E09000007,Camden,Occupancy rating of bedrooms: +1,24607
-E09000007,Camden,Occupancy rating of bedrooms: 0,45985
-E09000007,Camden,Occupancy rating of bedrooms: -1,7145
-E09000007,Camden,Occupancy rating of bedrooms: -2 or less,1690
-E09000008,Croydon,Occupancy rating of bedrooms: +2 or more,40376
-E09000008,Croydon,Occupancy rating of bedrooms: +1,41807
-E09000008,Croydon,Occupancy rating of bedrooms: 0,54895
-E09000008,Croydon,Occupancy rating of bedrooms: -1,13402
-E09000008,Croydon,Occupancy rating of bedrooms: -2 or less,2466
-E09000009,Ealing,Occupancy rating of bedrooms: +2 or more,29916
-E09000009,Ealing,Occupancy rating of bedrooms: +1,33372
-E09000009,Ealing,Occupancy rating of bedrooms: 0,52743
-E09000009,Ealing,Occupancy rating of bedrooms: -1,13826
-E09000009,Ealing,Occupancy rating of bedrooms: -2 or less,3802
-E09000010,Enfield,Occupancy rating of bedrooms: +2 or more,30644
-E09000010,Enfield,Occupancy rating of bedrooms: +1,31780
-E09000010,Enfield,Occupancy rating of bedrooms: 0,42871
-E09000010,Enfield,Occupancy rating of bedrooms: -1,12565
-E09000010,Enfield,Occupancy rating of bedrooms: -2 or less,3065
-E09000011,Greenwich,Occupancy rating of bedrooms: +2 or more,22560
-E09000011,Greenwich,Occupancy rating of bedrooms: +1,32976
-E09000011,Greenwich,Occupancy rating of bedrooms: 0,46298
-E09000011,Greenwich,Occupancy rating of bedrooms: -1,9947
-E09000011,Greenwich,Occupancy rating of bedrooms: -2 or less,2272
-E09000012,Hackney,Occupancy rating of bedrooms: +2 or more,12588
-E09000012,Hackney,Occupancy rating of bedrooms: +1,25814
-E09000012,Hackney,Occupancy rating of bedrooms: 0,54209
-E09000012,Hackney,Occupancy rating of bedrooms: -1,11070
-E09000012,Hackney,Occupancy rating of bedrooms: -2 or less,2400
-E09000013,Hammersmith and Fulham,Occupancy rating of bedrooms: +2 or more,14293
-E09000013,Hammersmith and Fulham,Occupancy rating of bedrooms: +1,20429
-E09000013,Hammersmith and Fulham,Occupancy rating of bedrooms: 0,39129
-E09000013,Hammersmith and Fulham,Occupancy rating of bedrooms: -1,6206
-E09000013,Hammersmith and Fulham,Occupancy rating of bedrooms: -2 or less,1187
-E09000014,Haringey,Occupancy rating of bedrooms: +2 or more,19716
-E09000014,Haringey,Occupancy rating of bedrooms: +1,25609
-E09000014,Haringey,Occupancy rating of bedrooms: 0,45622
-E09000014,Haringey,Occupancy rating of bedrooms: -1,11210
-E09000014,Haringey,Occupancy rating of bedrooms: -2 or less,2935
-E09000015,Harrow,Occupancy rating of bedrooms: +2 or more,26513
-E09000015,Harrow,Occupancy rating of bedrooms: +1,24177
-E09000015,Harrow,Occupancy rating of bedrooms: 0,28019
-E09000015,Harrow,Occupancy rating of bedrooms: -1,8438
-E09000015,Harrow,Occupancy rating of bedrooms: -2 or less,2496
-E09000016,Havering,Occupancy rating of bedrooms: +2 or more,34335
-E09000016,Havering,Occupancy rating of bedrooms: +1,32449
-E09000016,Havering,Occupancy rating of bedrooms: 0,28368
-E09000016,Havering,Occupancy rating of bedrooms: -1,5266
-E09000016,Havering,Occupancy rating of bedrooms: -2 or less,859
-E09000017,Hillingdon,Occupancy rating of bedrooms: +2 or more,27287
-E09000017,Hillingdon,Occupancy rating of bedrooms: +1,31476
-E09000017,Hillingdon,Occupancy rating of bedrooms: 0,38076
-E09000017,Hillingdon,Occupancy rating of bedrooms: -1,9984
-E09000017,Hillingdon,Occupancy rating of bedrooms: -2 or less,2405
-E09000018,Hounslow,Occupancy rating of bedrooms: +2 or more,21000
-E09000018,Hounslow,Occupancy rating of bedrooms: +1,26288
-E09000018,Hounslow,Occupancy rating of bedrooms: 0,40684
-E09000018,Hounslow,Occupancy rating of bedrooms: -1,11544
-E09000018,Hounslow,Occupancy rating of bedrooms: -2 or less,3445
-E09000019,Islington,Occupancy rating of bedrooms: +2 or more,11346
-E09000019,Islington,Occupancy rating of bedrooms: +1,24582
-E09000019,Islington,Occupancy rating of bedrooms: 0,51520
-E09000019,Islington,Occupancy rating of bedrooms: -1,7695
-E09000019,Islington,Occupancy rating of bedrooms: -2 or less,1353
-E09000020,Kensington and Chelsea,Occupancy rating of bedrooms: +2 or more,10894
-E09000020,Kensington and Chelsea,Occupancy rating of bedrooms: +1,19296
-E09000020,Kensington and Chelsea,Occupancy rating of bedrooms: 0,31270
-E09000020,Kensington and Chelsea,Occupancy rating of bedrooms: -1,4112
-E09000020,Kensington and Chelsea,Occupancy rating of bedrooms: -2 or less,1312
-E09000021,Kingston upon Thames,Occupancy rating of bedrooms: +2 or more,21342
-E09000021,Kingston upon Thames,Occupancy rating of bedrooms: +1,19673
-E09000021,Kingston upon Thames,Occupancy rating of bedrooms: 0,20673
-E09000021,Kingston upon Thames,Occupancy rating of bedrooms: -1,3420
-E09000021,Kingston upon Thames,Occupancy rating of bedrooms: -2 or less,518
-E09000022,Lambeth,Occupancy rating of bedrooms: +2 or more,21600
-E09000022,Lambeth,Occupancy rating of bedrooms: +1,34995
-E09000022,Lambeth,Occupancy rating of bedrooms: 0,63871
-E09000022,Lambeth,Occupancy rating of bedrooms: -1,11440
-E09000022,Lambeth,Occupancy rating of bedrooms: -2 or less,2783
-E09000023,Lewisham,Occupancy rating of bedrooms: +2 or more,22849
-E09000023,Lewisham,Occupancy rating of bedrooms: +1,33308
-E09000023,Lewisham,Occupancy rating of bedrooms: 0,52274
-E09000023,Lewisham,Occupancy rating of bedrooms: -1,11211
-E09000023,Lewisham,Occupancy rating of bedrooms: -2 or less,2750
-E09000024,Merton,Occupancy rating of bedrooms: +2 or more,23541
-E09000024,Merton,Occupancy rating of bedrooms: +1,23381
-E09000024,Merton,Occupancy rating of bedrooms: 0,27129
-E09000024,Merton,Occupancy rating of bedrooms: -1,6208
-E09000024,Merton,Occupancy rating of bedrooms: -2 or less,1470
-E09000025,Newham,Occupancy rating of bedrooms: +2 or more,14463
-E09000025,Newham,Occupancy rating of bedrooms: +1,26045
-E09000025,Newham,Occupancy rating of bedrooms: 0,50136
-E09000025,Newham,Occupancy rating of bedrooms: -1,18316
-E09000025,Newham,Occupancy rating of bedrooms: -2 or less,6547
-E09000026,Redbridge,Occupancy rating of bedrooms: +2 or more,29194
-E09000026,Redbridge,Occupancy rating of bedrooms: +1,27566
-E09000026,Redbridge,Occupancy rating of bedrooms: 0,33324
-E09000026,Redbridge,Occupancy rating of bedrooms: -1,10899
-E09000026,Redbridge,Occupancy rating of bedrooms: -2 or less,2731
-E09000027,Richmond upon Thames,Occupancy rating of bedrooms: +2 or more,28502
-E09000027,Richmond upon Thames,Occupancy rating of bedrooms: +1,25300
-E09000027,Richmond upon Thames,Occupancy rating of bedrooms: 0,23682
-E09000027,Richmond upon Thames,Occupancy rating of bedrooms: -1,2821
-E09000027,Richmond upon Thames,Occupancy rating of bedrooms: -2 or less,400
-E09000028,Southwark,Occupancy rating of bedrooms: +2 or more,17780
-E09000028,Southwark,Occupancy rating of bedrooms: +1,33974
-E09000028,Southwark,Occupancy rating of bedrooms: 0,63094
-E09000028,Southwark,Occupancy rating of bedrooms: -1,12735
-E09000028,Southwark,Occupancy rating of bedrooms: -2 or less,3235
-E09000029,Sutton,Occupancy rating of bedrooms: +2 or more,23272
-E09000029,Sutton,Occupancy rating of bedrooms: +1,25107
-E09000029,Sutton,Occupancy rating of bedrooms: 0,28038
-E09000029,Sutton,Occupancy rating of bedrooms: -1,5286
-E09000029,Sutton,Occupancy rating of bedrooms: -2 or less,645
-E09000030,Tower Hamlets,Occupancy rating of bedrooms: +2 or more,9039
-E09000030,Tower Hamlets,Occupancy rating of bedrooms: +1,29162
-E09000030,Tower Hamlets,Occupancy rating of bedrooms: 0,63208
-E09000030,Tower Hamlets,Occupancy rating of bedrooms: -1,14882
-E09000030,Tower Hamlets,Occupancy rating of bedrooms: -2 or less,4248
-E09000031,Waltham Forest,Occupancy rating of bedrooms: +2 or more,21746
-E09000031,Waltham Forest,Occupancy rating of bedrooms: +1,28709
-E09000031,Waltham Forest,Occupancy rating of bedrooms: 0,38615
-E09000031,Waltham Forest,Occupancy rating of bedrooms: -1,10794
-E09000031,Waltham Forest,Occupancy rating of bedrooms: -2 or less,3039
-E09000032,Wandsworth,Occupancy rating of bedrooms: +2 or more,29689
-E09000032,Wandsworth,Occupancy rating of bedrooms: +1,38614
-E09000032,Wandsworth,Occupancy rating of bedrooms: 0,58750
-E09000032,Wandsworth,Occupancy rating of bedrooms: -1,8742
-E09000032,Wandsworth,Occupancy rating of bedrooms: -2 or less,1598
-E09000033,Westminster,Occupancy rating of bedrooms: +2 or more,11541
-E09000033,Westminster,Occupancy rating of bedrooms: +1,25088
-E09000033,Westminster,Occupancy rating of bedrooms: 0,48474
-E09000033,Westminster,Occupancy rating of bedrooms: -1,7658
-E09000033,Westminster,Occupancy rating of bedrooms: -2 or less,2053
+E09000001,City of London,rating: +2 or more,390
+E09000001,City of London,rating: +1,1158
+E09000001,City of London,rating: 0,3133
+E09000001,City of London,rating: -1,207
+E09000001,City of London,rating: -2 or less,26
+E09000002,Barking and Dagenham,rating: +2 or more,10720
+E09000002,Barking and Dagenham,rating: +1,19248
+E09000002,Barking and Dagenham,rating: 0,30793
+E09000002,Barking and Dagenham,rating: -1,10629
+E09000002,Barking and Dagenham,rating: -2 or less,2512
+E09000003,Barnet,rating: +2 or more,42709
+E09000003,Barnet,rating: +1,40449
+E09000003,Barnet,rating: 0,51793
+E09000003,Barnet,rating: -1,11644
+E09000003,Barnet,rating: -2 or less,2322
+E09000004,Bexley,rating: +2 or more,30448
+E09000004,Bexley,rating: +1,31647
+E09000004,Bexley,rating: 0,27373
+E09000004,Bexley,rating: -1,4934
+E09000004,Bexley,rating: -2 or less,898
+E09000005,Brent,rating: +2 or more,22710
+E09000005,Brent,rating: +1,27337
+E09000005,Brent,rating: 0,48512
+E09000005,Brent,rating: -1,14926
+E09000005,Brent,rating: -2 or less,5127
+E09000006,Bromley,rating: +2 or more,49715
+E09000006,Bromley,rating: +1,42488
+E09000006,Bromley,rating: 0,37505
+E09000006,Bromley,rating: -1,5425
+E09000006,Bromley,rating: -2 or less,695
+E09000007,Camden,rating: +2 or more,13329
+E09000007,Camden,rating: +1,24607
+E09000007,Camden,rating: 0,45985
+E09000007,Camden,rating: -1,7145
+E09000007,Camden,rating: -2 or less,1690
+E09000008,Croydon,rating: +2 or more,40376
+E09000008,Croydon,rating: +1,41807
+E09000008,Croydon,rating: 0,54895
+E09000008,Croydon,rating: -1,13402
+E09000008,Croydon,rating: -2 or less,2466
+E09000009,Ealing,rating: +2 or more,29916
+E09000009,Ealing,rating: +1,33372
+E09000009,Ealing,rating: 0,52743
+E09000009,Ealing,rating: -1,13826
+E09000009,Ealing,rating: -2 or less,3802
+E09000010,Enfield,rating: +2 or more,30644
+E09000010,Enfield,rating: +1,31780
+E09000010,Enfield,rating: 0,42871
+E09000010,Enfield,rating: -1,12565
+E09000010,Enfield,rating: -2 or less,3065
+E09000011,Greenwich,rating: +2 or more,22560
+E09000011,Greenwich,rating: +1,32976
+E09000011,Greenwich,rating: 0,46298
+E09000011,Greenwich,rating: -1,9947
+E09000011,Greenwich,rating: -2 or less,2272
+E09000012,Hackney,rating: +2 or more,12588
+E09000012,Hackney,rating: +1,25814
+E09000012,Hackney,rating: 0,54209
+E09000012,Hackney,rating: -1,11070
+E09000012,Hackney,rating: -2 or less,2400
+E09000013,Hammersmith and Fulham,rating: +2 or more,14293
+E09000013,Hammersmith and Fulham,rating: +1,20429
+E09000013,Hammersmith and Fulham,rating: 0,39129
+E09000013,Hammersmith and Fulham,rating: -1,6206
+E09000013,Hammersmith and Fulham,rating: -2 or less,1187
+E09000014,Haringey,rating: +2 or more,19716
+E09000014,Haringey,rating: +1,25609
+E09000014,Haringey,rating: 0,45622
+E09000014,Haringey,rating: -1,11210
+E09000014,Haringey,rating: -2 or less,2935
+E09000015,Harrow,rating: +2 or more,26513
+E09000015,Harrow,rating: +1,24177
+E09000015,Harrow,rating: 0,28019
+E09000015,Harrow,rating: -1,8438
+E09000015,Harrow,rating: -2 or less,2496
+E09000016,Havering,rating: +2 or more,34335
+E09000016,Havering,rating: +1,32449
+E09000016,Havering,rating: 0,28368
+E09000016,Havering,rating: -1,5266
+E09000016,Havering,rating: -2 or less,859
+E09000017,Hillingdon,rating: +2 or more,27287
+E09000017,Hillingdon,rating: +1,31476
+E09000017,Hillingdon,rating: 0,38076
+E09000017,Hillingdon,rating: -1,9984
+E09000017,Hillingdon,rating: -2 or less,2405
+E09000018,Hounslow,rating: +2 or more,21000
+E09000018,Hounslow,rating: +1,26288
+E09000018,Hounslow,rating: 0,40684
+E09000018,Hounslow,rating: -1,11544
+E09000018,Hounslow,rating: -2 or less,3445
+E09000019,Islington,rating: +2 or more,11346
+E09000019,Islington,rating: +1,24582
+E09000019,Islington,rating: 0,51520
+E09000019,Islington,rating: -1,7695
+E09000019,Islington,rating: -2 or less,1353
+E09000020,Kensington and Chelsea,rating: +2 or more,10894
+E09000020,Kensington and Chelsea,rating: +1,19296
+E09000020,Kensington and Chelsea,rating: 0,31270
+E09000020,Kensington and Chelsea,rating: -1,4112
+E09000020,Kensington and Chelsea,rating: -2 or less,1312
+E09000021,Kingston upon Thames,rating: +2 or more,21342
+E09000021,Kingston upon Thames,rating: +1,19673
+E09000021,Kingston upon Thames,rating: 0,20673
+E09000021,Kingston upon Thames,rating: -1,3420
+E09000021,Kingston upon Thames,rating: -2 or less,518
+E09000022,Lambeth,rating: +2 or more,21600
+E09000022,Lambeth,rating: +1,34995
+E09000022,Lambeth,rating: 0,63871
+E09000022,Lambeth,rating: -1,11440
+E09000022,Lambeth,rating: -2 or less,2783
+E09000023,Lewisham,rating: +2 or more,22849
+E09000023,Lewisham,rating: +1,33308
+E09000023,Lewisham,rating: 0,52274
+E09000023,Lewisham,rating: -1,11211
+E09000023,Lewisham,rating: -2 or less,2750
+E09000024,Merton,rating: +2 or more,23541
+E09000024,Merton,rating: +1,23381
+E09000024,Merton,rating: 0,27129
+E09000024,Merton,rating: -1,6208
+E09000024,Merton,rating: -2 or less,1470
+E09000025,Newham,rating: +2 or more,14463
+E09000025,Newham,rating: +1,26045
+E09000025,Newham,rating: 0,50136
+E09000025,Newham,rating: -1,18316
+E09000025,Newham,rating: -2 or less,6547
+E09000026,Redbridge,rating: +2 or more,29194
+E09000026,Redbridge,rating: +1,27566
+E09000026,Redbridge,rating: 0,33324
+E09000026,Redbridge,rating: -1,10899
+E09000026,Redbridge,rating: -2 or less,2731
+E09000027,Richmond upon Thames,rating: +2 or more,28502
+E09000027,Richmond upon Thames,rating: +1,25300
+E09000027,Richmond upon Thames,rating: 0,23682
+E09000027,Richmond upon Thames,rating: -1,2821
+E09000027,Richmond upon Thames,rating: -2 or less,400
+E09000028,Southwark,rating: +2 or more,17780
+E09000028,Southwark,rating: +1,33974
+E09000028,Southwark,rating: 0,63094
+E09000028,Southwark,rating: -1,12735
+E09000028,Southwark,rating: -2 or less,3235
+E09000029,Sutton,rating: +2 or more,23272
+E09000029,Sutton,rating: +1,25107
+E09000029,Sutton,rating: 0,28038
+E09000029,Sutton,rating: -1,5286
+E09000029,Sutton,rating: -2 or less,645
+E09000030,Tower Hamlets,rating: +2 or more,9039
+E09000030,Tower Hamlets,rating: +1,29162
+E09000030,Tower Hamlets,rating: 0,63208
+E09000030,Tower Hamlets,rating: -1,14882
+E09000030,Tower Hamlets,rating: -2 or less,4248
+E09000031,Waltham Forest,rating: +2 or more,21746
+E09000031,Waltham Forest,rating: +1,28709
+E09000031,Waltham Forest,rating: 0,38615
+E09000031,Waltham Forest,rating: -1,10794
+E09000031,Waltham Forest,rating: -2 or less,3039
+E09000032,Wandsworth,rating: +2 or more,29689
+E09000032,Wandsworth,rating: +1,38614
+E09000032,Wandsworth,rating: 0,58750
+E09000032,Wandsworth,rating: -1,8742
+E09000032,Wandsworth,rating: -2 or less,1598
+E09000033,Westminster,rating: +2 or more,11541
+E09000033,Westminster,rating: +1,25088
+E09000033,Westminster,rating: 0,48474
+E09000033,Westminster,rating: -1,7658
+E09000033,Westminster,rating: -2 or less,2053

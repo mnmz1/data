@@ -121,7 +121,58 @@ E09000020,Kensington and Chelsea,Private rented: Private landlord or letting age
 E09000020,Kensington and Chelsea,Lives rent free,127,59,68
 E09000021,Kingston upon Thames,Owned: Owns outright,18519,12281,6238
 E09000021,Kingston upon Thames,Owned: Owns with a mortgage or loan,21418,14204,7214
-,,,,,
+E09000021,Kingston upon Thames,Shared ownership: Shared ownership,460,305,155
+E09000021,Kingston upon Thames,Social rented: Rents from council or Local Authority,7244,4804,2440
+E09000021,Kingston upon Thames,Private rented: Private landlord or letting agency,17911,11878,6033
+E09000021,Kingston upon Thames,Lives rent free,76,50,26
+E09000022,Lambeth,Owned: Owns outright,16180,9937,6243
+E09000022,Lambeth,Owned: Owns with a mortgage or loan,28289,17374,10915
+E09000022,Lambeth,Shared ownership: Shared ownership,2441,1499,942
+E09000022,Lambeth,Social rented: Rents from council or Local Authority,45243,27787,17456
+E09000022,Lambeth,Private rented: Private landlord or letting agency,42329,25997,16332
+E09000022,Lambeth,Lives rent free,206,127,79
+E09000023,Lewisham,Owned: Owns outright,18853,12137,6716
+E09000023,Lewisham,Owned: Owns with a mortgage or loan,32377,20843,11534
+E09000023,Lewisham,Shared ownership: Shared ownership,1944,1251,693
+E09000023,Lewisham,Social rented: Rents from council or Local Authority,35753,23016,12737
+E09000023,Lewisham,Private rented: Private landlord or letting agency,33289,21430,11859
+E09000023,Lewisham,Lives rent free,177,114,63
+E09000024,Merton,Owned: Owns outright,20695,13084,7611
+E09000024,Merton,Owned: Owns with a mortgage or loan,24773,15662,9111
+E09000024,Merton,Shared ownership: Shared ownership,869,549,320
+E09000024,Merton,Social rented: Rents from council or Local Authority,11599,7333,4266
+E09000024,Merton,Private rented: Private landlord or letting agency,23748,15014,8734
+E09000024,Merton,Lives rent free,42,27,15
+E09000025,Newham,Owned: Owns outright,14695,6800,7895
+E09000025,Newham,Owned: Owns with a mortgage or loan,20884,9664,11220
+E09000025,Newham,Shared ownership: Shared ownership,2739,1268,1471
+E09000025,Newham,Social rented: Rents from council or Local Authority,32390,14989,17401
+E09000025,Newham,Private rented: Private landlord or letting agency,44479,20583,23896
+E09000025,Newham,Lives rent free,324,150,174
+E09000026,Redbridge,Owned: Owns outright,23339,13665,9674
+E09000026,Redbridge,Owned: Owns with a mortgage or loan,28985,16737,12248
+E09000026,Redbridge,Shared ownership: Shared ownership,788,429,359
+E09000026,Redbridge,Social rented: Rents from council or Local Authority,13689,8136,5553
+E09000026,Redbridge,Private rented: Private landlord or letting agency,24073,11832,12241
+E09000026,Redbridge,Lives rent free,129,72,57
+E09000027,Richmond upon Thames,Owned: Owns outright,15196,9132,6064
+E09000027,Richmond upon Thames,Owned: Owns with a mortgage or loan,13285,7602,5683
+E09000027,Richmond upon Thames,Shared ownership: Shared ownership,287,168,119
+E09000027,Richmond upon Thames,Social rented: Rents from council or Local Authority,4382,2589,1793
+E09000027,Richmond upon Thames,Private rented: Private landlord or letting agency,15728,9250,6478
+E09000027,Richmond upon Thames,Lives rent free,71,38,33
+E09000028,Southwark,Owned: Owns outright,22281,12312,9970
+E09000028,Southwark,Owned: Owns with a mortgage or loan,25289,15089,10200
+E09000028,Southwark,Shared ownership: Shared ownership,2603,1539,1064
+E09000028,Southwark,Social rented: Rents from council or Local Authority,52777,32443,20334
+E09000028,Southwark,Private rented: Private landlord or letting agency,31465,17492,13973
+E09000028,Southwark,Lives rent free,249,156,93
+E09000029,Sutton,Owned: Owns outright,20088,10457,9620
+E09000029,Sutton,Owned: Owns with a mortgage or loan,21468,12051,9426
+E09000029,Sutton,Shared ownership: Shared ownership,725,378,347
+E09000029,Sutton,Social rented: Rents from council or Local Authority,6862,3483,3379
+E09000029,Sutton,Private rented: Private landlord or letting agency,18012,9175,8837
+E09000029,Sutton,Lives rent free,28,12,16
 E09000030,Tower Hamlets,Owned: Owns outright,9424,5014,4410
 E09000030,Tower Hamlets,Owned: Owns with a mortgage or loan,18459,9820,8639
 E09000030,Tower Hamlets,Shared ownership: Shared ownership,3143,1672,1471

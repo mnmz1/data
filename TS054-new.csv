@@ -1,10 +1,10 @@
-la_Code,borough,tenure_Status,Observation,non-Migrant,migrant,
-E09000001,City of London,Owned: Owns outright,1114,562,552,
-E09000001,City of London,Owned: Owns with a mortgage or loan,680,343,337,
-E09000001,City of London,Shared ownership: Shared ownership,12,6,6,
-E09000001,City of London,Social rented: Rents from council or Local Authority,730,368,362,
-E09000001,City of London,Private rented: Private landlord or letting agency,2373,"1,196","1,177",
-E09000001,City of London,Lives rent free,5,3,2,
+la_Code,borough,tenure_Status,Observation,non-Migrant,migrant,migrantss
+E09000001,City of London,Owned: Owns outright,1114,562,552,1000
+E09000001,City of London,Owned: Owns with a mortgage or loan,680,343,337,65
+E09000001,City of London,Shared ownership: Shared ownership,12,6,6,5
+E09000001,City of London,Social rented: Rents from council or Local Authority,730,368,362,555
+E09000001,City of London,Private rented: Private landlord or letting agency,2373,"1,196","1,177",111
+E09000001,City of London,Lives rent free,5,3,2,1
 E09000002,Barking and Dagenham,Owned: Owns outright,11130,"6,534","4,596",
 E09000002,Barking and Dagenham,Owned: Owns with a mortgage or loan,20189,"11,852","8,337",
 E09000002,Barking and Dagenham,Shared ownership: Shared ownership,1274,748,526,

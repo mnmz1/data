@@ -1,397 +1,397 @@
 la_Code,borough,tenure_Status,Observation,status,value
-E09000001,City of London,Owned: Owns outright,1114,nonmigrant,562
-E09000001,City of London,Owned: Owns with a mortgage,680,nonmigrant,343
-E09000001,City of London,Shared ownership: Shared ownership,12,nonmigrant,6
-E09000001,City of London,Social rented: Rents from council ,730,nonmigrant,368
-E09000001,City of London,Private rented: Private landlord ,2373,nonmigrant,1196
-E09000001,City of London,Lives rent free,5,nonmigrant,3
-E09000001,City of London,Owned: Owns outright,1114,migrant,552
-E09000001,City of London,Owned: Owns with a mortgage,680,migrant,337
-E09000001,City of London,Shared ownership: Shared ownership,12,migrant,6
-E09000001,City of London,Social rented: Rents from council ,730,migrant,362
-E09000001,City of London,Private rented: Private landlord ,2373,migrant,1177
-E09000001,City of London,Lives rent free,5,migrant,2
-E09000002,Barking and Dagenham,Owned: Owns outright,11130,nonmigrant,6534
-E09000002,Barking and Dagenham,Owned: Owns with a mortgage,20189,nonmigrant,11852
-E09000002,Barking and Dagenham,Shared ownership: Shared ownership,1274,nonmigrant,748
-E09000002,Barking and Dagenham,Social rented: Rents from council ,18077,nonmigrant,10612
-E09000002,Barking and Dagenham,Private rented: Private landlord ,17890,nonmigrant,10502
-E09000002,Barking and Dagenham,Lives rent free,146,nonmigrant,86
-E09000002,Barking and Dagenham,Owned: Owns outright,11130,migrant,4596
-E09000002,Barking and Dagenham,Owned: Owns with a mortgage,20189,migrant,8337
-E09000002,Barking and Dagenham,Shared ownership: Shared ownership,1274,migrant,526
-E09000002,Barking and Dagenham,Social rented: Rents from council ,18077,migrant,7465
-E09000002,Barking and Dagenham,Private rented: Private landlord ,17890,migrant,7388
-E09000002,Barking and Dagenham,Lives rent free,146,migrant,60
-E09000003,Barnet,Owned: Owns outright,39083,nonmigrant,22214
-E09000003,Barnet,Owned: Owns with a mortgage,39324,nonmigrant,22351
-E09000003,Barnet,Shared ownership: Shared ownership,1633,nonmigrant,928
-E09000003,Barnet,Social rented: Rents from council ,20034,nonmigrant,11387
-E09000003,Barnet,Private rented: Private landlord ,48705,nonmigrant,27683
-E09000003,Barnet,Lives rent free,138,nonmigrant,78
-E09000003,Barnet,Owned: Owns outright,39083,migrant,16869
-E09000003,Barnet,Owned: Owns with a mortgage,39324,migrant,16973
-E09000003,Barnet,Shared ownership: Shared ownership,1633,migrant,705
-E09000003,Barnet,Social rented: Rents from council ,20034,migrant,8647
-E09000003,Barnet,Private rented: Private landlord ,48705,migrant,21022
-E09000003,Barnet,Lives rent free,138,migrant,60
-E09000004,Bexley,Owned: Owns outright,31210,nonmigrant,24656
-E09000004,Bexley,Owned: Owns with a mortgage,34207,nonmigrant,27024
-E09000004,Bexley,Shared ownership: Shared ownership,1263,nonmigrant,998
-E09000004,Bexley,Social rented: Rents from council ,13977,nonmigrant,11042
-E09000004,Bexley,Private rented: Private landlord ,14578,nonmigrant,11517
-E09000004,Bexley,Lives rent free,65,nonmigrant,51
-E09000004,Bexley,Owned: Owns outright,31210,migrant,6554
-E09000004,Bexley,Owned: Owns with a mortgage,34207,migrant,7183
-E09000004,Bexley,Shared ownership: Shared ownership,1263,migrant,265
-E09000004,Bexley,Social rented: Rents from council ,13977,migrant,2935
-E09000004,Bexley,Private rented: Private landlord ,14578,migrant,3061
-E09000004,Bexley,Lives rent free,65,migrant,14
-E09000005,Brent,Owned: Owns outright,23933,nonmigrant,10511
-E09000005,Brent,Owned: Owns with a mortgage,21660,nonmigrant,9513
-E09000005,Brent,Shared ownership: Shared ownership,2246,nonmigrant,986
-E09000005,Brent,Social rented: Rents from council ,27876,nonmigrant,12243
-E09000005,Brent,Private rented: Private landlord ,42726,nonmigrant,18764
-E09000005,Brent,Lives rent free,171,nonmigrant,75
-E09000005,Brent,Owned: Owns outright,23933,migrant,13422
-E09000005,Brent,Owned: Owns with a mortgage,21660,migrant,12147
-E09000005,Brent,Shared ownership: Shared ownership,2246,migrant,1260
-E09000005,Brent,Social rented: Rents from council ,27876,migrant,15633
-E09000005,Brent,Private rented: Private landlord ,42726,migrant,23962
-E09000005,Brent,Lives rent free,171,migrant,96
-E09000006,Bromley,Owned: Owns outright,44794,nonmigrant,35707
-E09000006,Bromley,Owned: Owns with a mortgage,48234,nonmigrant,38450
-E09000006,Bromley,Shared ownership: Shared ownership,1166,nonmigrant,929
-E09000006,Bromley,Social rented: Rents from council ,17926,nonmigrant,14290
-E09000006,Bromley,Private rented: Private landlord ,23661,nonmigrant,18861
-E09000006,Bromley,Lives rent free,47,nonmigrant,37
-E09000006,Bromley,Owned: Owns outright,44794,migrant,9087
-E09000006,Bromley,Owned: Owns with a mortgage,48234,migrant,9784
-E09000006,Bromley,Shared ownership: Shared ownership,1166,migrant,237
-E09000006,Bromley,Social rented: Rents from council ,17926,migrant,3636
-E09000006,Bromley,Private rented: Private landlord ,23661,migrant,4800
-E09000006,Bromley,Lives rent free,47,migrant,10
-E09000007,Camden,Owned: Owns outright,14780,nonmigrant,8064
-E09000007,Camden,Owned: Owns with a mortgage,12727,nonmigrant,6944
-E09000007,Camden,Shared ownership: Shared ownership,715,nonmigrant,390
-E09000007,Camden,Social rented: Rents from council ,41449,nonmigrant,22614
-E09000007,Camden,Private rented: Private landlord ,33012,nonmigrant,18011
-E09000007,Camden,Lives rent free,274,nonmigrant,149
-E09000007,Camden,Owned: Owns outright,14780,migrant,6716
-E09000007,Camden,Owned: Owns with a mortgage,12727,migrant,5783
-E09000007,Camden,Shared ownership: Shared ownership,715,migrant,325
-E09000007,Camden,Social rented: Rents from council ,41449,migrant,18835
-E09000007,Camden,Private rented: Private landlord ,33012,migrant,15001
-E09000007,Camden,Lives rent free,274,migrant,125
-E09000008,Croydon,Owned: Owns outright,36992,nonmigrant,24099
-E09000008,Croydon,Owned: Owns with a mortgage,46675,nonmigrant,30407
-E09000008,Croydon,Shared ownership: Shared ownership,2183,nonmigrant,1422
-E09000008,Croydon,Social rented: Rents from council ,39973,nonmigrant,26041
-E09000008,Croydon,Private rented: Private landlord ,39441,nonmigrant,25694
-E09000008,Croydon,Lives rent free,283,nonmigrant,184
-E09000008,Croydon,Owned: Owns outright,36992,migrant,12893
-E09000008,Croydon,Owned: Owns with a mortgage,46675,migrant,16268
-E09000008,Croydon,Shared ownership: Shared ownership,2183,migrant,761
-E09000008,Croydon,Social rented: Rents from council ,39973,migrant,13932
-E09000008,Croydon,Private rented: Private landlord ,39441,migrant,13747
-E09000008,Croydon,Lives rent free,283,migrant,99
-E09000009,Ealing,Owned: Owns outright,30275,nonmigrant,14890
-E09000009,Ealing,Owned: Owns with a mortgage,31539,nonmigrant,15512
-E09000009,Ealing,Shared ownership: Shared ownership,2658,nonmigrant,1307
-E09000009,Ealing,Social rented: Rents from council ,23382,nonmigrant,11500
-E09000009,Ealing,Private rented: Private landlord ,45490,nonmigrant,22374
-E09000009,Ealing,Lives rent free,313,nonmigrant,154
-E09000009,Ealing,Owned: Owns outright,30275,migrant,15385
-E09000009,Ealing,Owned: Owns with a mortgage,31539,migrant,16027
-E09000009,Ealing,Shared ownership: Shared ownership,2658,migrant,1351
-E09000009,Ealing,Social rented: Rents from council ,23382,migrant,11882
-E09000009,Ealing,Private rented: Private landlord ,45490,migrant,23116
-E09000009,Ealing,Lives rent free,313,migrant,159
-E09000010,Enfield,Owned: Owns outright,31740,nonmigrant,18932
-E09000010,Enfield,Owned: Owns with a mortgage,31607,nonmigrant,18852
-E09000010,Enfield,Shared ownership: Shared ownership,1319,nonmigrant,787
-E09000010,Enfield,Social rented: Rents from council ,20573,nonmigrant,12271
-E09000010,Enfield,Private rented: Private landlord ,35388,nonmigrant,21108
-E09000010,Enfield,Lives rent free,296,nonmigrant,177
-E09000010,Enfield,Owned: Owns outright,31740,migrant,12808
-E09000010,Enfield,Owned: Owns with a mortgage,31607,migrant,12755
-E09000010,Enfield,Shared ownership: Shared ownership,1319,migrant,532
-E09000010,Enfield,Social rented: Rents from council ,20573,migrant,8302
-E09000010,Enfield,Private rented: Private landlord ,35388,migrant,14280
-E09000010,Enfield,Lives rent free,296,migrant,119
-E09000011,Greenwich,Owned: Owns outright,18473,nonmigrant,11540
-E09000011,Greenwich,Owned: Owns with a mortgage,28454,nonmigrant,17775
-E09000011,Greenwich,Shared ownership: Shared ownership,2471,nonmigrant,1544
-E09000011,Greenwich,Social rented: Rents from council ,35327,nonmigrant,22069
-E09000011,Greenwich,Private rented: Private landlord ,29088,nonmigrant,18171
-E09000011,Greenwich,Lives rent free,238,nonmigrant,149
-E09000011,Greenwich,Owned: Owns outright,18473,migrant,6933
-E09000011,Greenwich,Owned: Owns with a mortgage,28454,migrant,10679
-E09000011,Greenwich,Shared ownership: Shared ownership,2471,migrant,927
-E09000011,Greenwich,Social rented: Rents from council ,35327,migrant,13258
-E09000011,Greenwich,Private rented: Private landlord ,29088,migrant,10917
-E09000011,Greenwich,Lives rent free,238,migrant,89
-E09000012,Hackney,Owned: Owns outright,10263,nonmigrant,6187
-E09000012,Hackney,Owned: Owns with a mortgage,15803,nonmigrant,9526
-E09000012,Hackney,Shared ownership: Shared ownership,2664,nonmigrant,1606
-E09000012,Hackney,Social rented: Rents from council ,42945,nonmigrant,25888
-E09000012,Hackney,Private rented: Private landlord ,34147,nonmigrant,20585
-E09000012,Hackney,Lives rent free,259,nonmigrant,156
-E09000012,Hackney,Owned: Owns outright,10263,migrant,4076
-E09000012,Hackney,Owned: Owns with a mortgage,15803,migrant,6277
-E09000012,Hackney,Shared ownership: Shared ownership,2664,migrant,1058
-E09000012,Hackney,Social rented: Rents from council ,42945,migrant,17057
-E09000012,Hackney,Private rented: Private landlord ,34147,migrant,13562
-E09000012,Hackney,Lives rent free,259,migrant,103
-E09000013,Hammersmith and Fulham,Owned: Owns outright,12483,nonmigrant,6803
-E09000013,Hammersmith and Fulham,Owned: Owns with a mortgage,13607,nonmigrant,7416
-E09000013,Hammersmith and Fulham,Shared ownership: Shared ownership,1208,nonmigrant,658
-E09000013,Hammersmith and Fulham,Social rented: Rents from council ,24231,nonmigrant,13206
-E09000013,Hammersmith and Fulham,Private rented: Private landlord ,29558,nonmigrant,16109
-E09000013,Hammersmith and Fulham,Lives rent free,157,nonmigrant,86
-E09000013,Hammersmith and Fulham,Owned: Owns outright,12483,migrant,5680
-E09000013,Hammersmith and Fulham,Owned: Owns with a mortgage,13607,migrant,6191
-E09000013,Hammersmith and Fulham,Shared ownership: Shared ownership,1208,migrant,550
-E09000013,Hammersmith and Fulham,Social rented: Rents from council ,24231,migrant,11025
-E09000013,Hammersmith and Fulham,Private rented: Private landlord ,29558,migrant,13449
-E09000013,Hammersmith and Fulham,Lives rent free,157,migrant,71
-E09000014,Haringey,Owned: Owns outright,18141,nonmigrant,9826
-E09000014,Haringey,Owned: Owns with a mortgage,20975,nonmigrant,11361
-E09000014,Haringey,Shared ownership: Shared ownership,1732,nonmigrant,938
-E09000014,Haringey,Social rented: Rents from council ,26474,nonmigrant,14339
-E09000014,Haringey,Private rented: Private landlord ,37376,nonmigrant,20244
-E09000014,Haringey,Lives rent free,393,nonmigrant,213
-E09000014,Haringey,Owned: Owns outright,18141,migrant,8315
-E09000014,Haringey,Owned: Owns with a mortgage,20975,migrant,9614
-E09000014,Haringey,Shared ownership: Shared ownership,1732,migrant,794
-E09000014,Haringey,Social rented: Rents from council ,26474,migrant,12135
-E09000014,Haringey,Private rented: Private landlord ,37376,migrant,17132
-E09000014,Haringey,Lives rent free,393,migrant,180
-E09000015,Harrow,Owned: Owns outright,26947,nonmigrant,8844
-E09000015,Harrow,Owned: Owns with a mortgage,25743,nonmigrant,8449
-E09000015,Harrow,Shared ownership: Shared ownership,1007,nonmigrant,331
-E09000015,Harrow,Social rented: Rents from council ,9298,nonmigrant,3052
-E09000015,Harrow,Private rented: Private landlord ,26495,nonmigrant,8696
-E09000015,Harrow,Lives rent free,152,nonmigrant,50
-E09000015,Harrow,Owned: Owns outright,26947,migrant,18103
-E09000015,Harrow,Owned: Owns with a mortgage,25743,migrant,17294
-E09000015,Harrow,Shared ownership: Shared ownership,1007,migrant,676
-E09000015,Harrow,Social rented: Rents from council ,9298,migrant,6246
-E09000015,Harrow,Private rented: Private landlord ,26495,migrant,17799
-E09000015,Harrow,Lives rent free,152,migrant,102
-E09000016,Havering,Owned: Owns outright,34918,nonmigrant,28138
-E09000016,Havering,Owned: Owns with a mortgage,35461,nonmigrant,28575
-E09000016,Havering,Shared ownership: Shared ownership,976,nonmigrant,786
-E09000016,Havering,Social rented: Rents from council ,13807,nonmigrant,11126
-E09000016,Havering,Private rented: Private landlord ,16019,nonmigrant,12908
-E09000016,Havering,Lives rent free,95,nonmigrant,77
-E09000016,Havering,Owned: Owns outright,34918,migrant,6780
-E09000016,Havering,Owned: Owns with a mortgage,35461,migrant,6886
-E09000016,Havering,Shared ownership: Shared ownership,976,migrant,190
-E09000016,Havering,Social rented: Rents from council ,13807,migrant,2681
-E09000016,Havering,Private rented: Private landlord ,16019,migrant,3111
-E09000016,Havering,Lives rent free,95,migrant,18
-E09000017,Hillingdon,Owned: Owns outright,28994,nonmigrant,17843
-E09000017,Hillingdon,Owned: Owns with a mortgage,32837,nonmigrant,20208
-E09000017,Hillingdon,Shared ownership: Shared ownership,1373,nonmigrant,845
-E09000017,Hillingdon,Social rented: Rents from council ,17613,nonmigrant,10839
-E09000017,Hillingdon,Private rented: Private landlord ,28276,nonmigrant,17401
-E09000017,Hillingdon,Lives rent free,135,nonmigrant,83
-E09000017,Hillingdon,Owned: Owns outright,28994,migrant,11151
-E09000017,Hillingdon,Owned: Owns with a mortgage,32837,migrant,12629
-E09000017,Hillingdon,Shared ownership: Shared ownership,1373,migrant,528
-E09000017,Hillingdon,Social rented: Rents from council ,17613,migrant,6774
-E09000017,Hillingdon,Private rented: Private landlord ,28276,migrant,10875
-E09000017,Hillingdon,Lives rent free,135,migrant,52
-E09000018,Hounslow,Owned: Owns outright,21761,nonmigrant,10991
-E09000018,Hounslow,Owned: Owns with a mortgage,25283,nonmigrant,12770
-E09000018,Hounslow,Shared ownership: Shared ownership,2225,nonmigrant,1124
-E09000018,Hounslow,Social rented: Rents from council ,31788,nonmigrant,16056
-E09000018,Hounslow,Private rented: Private landlord ,29537,nonmigrant,14919
-E09000018,Hounslow,Lives rent free,286,nonmigrant,144
-E09000018,Hounslow,Owned: Owns outright,21761,migrant,10770
-E09000018,Hounslow,Owned: Owns with a mortgage,25283,migrant,12513
-E09000018,Hounslow,Shared ownership: Shared ownership,2225,migrant,1101
-E09000018,Hounslow,Social rented: Rents from council ,31788,migrant,15732
-E09000018,Hounslow,Private rented: Private landlord ,29537,migrant,14618
-E09000018,Hounslow,Lives rent free,286,migrant,142
-E09000019,Islington,Owned: Owns outright,11151,nonmigrant,6704
-E09000019,Islington,Owned: Owns with a mortgage,14589,nonmigrant,8771
-E09000019,Islington,Shared ownership: Shared ownership,1580,nonmigrant,950
-E09000019,Islington,Social rented: Rents from council ,38787,nonmigrant,23319
-E09000019,Islington,Private rented: Private landlord ,30079,nonmigrant,18083
-E09000019,Islington,Lives rent free,310,nonmigrant,186
-E09000019,Islington,Owned: Owns outright,11151,migrant,4447
-E09000019,Islington,Owned: Owns with a mortgage,14589,migrant,5818
-E09000019,Islington,Shared ownership: Shared ownership,1580,migrant,630
-E09000019,Islington,Social rented: Rents from council ,38787,migrant,15468
-E09000019,Islington,Private rented: Private landlord ,30079,migrant,11996
-E09000019,Islington,Lives rent free,310,migrant,124
-E09000020,Kensington and Chelsea,Owned: Owns outright,13301,nonmigrant,6129
-E09000020,Kensington and Chelsea,Owned: Owns with a mortgage,7890,nonmigrant,3635
-E09000020,Kensington and Chelsea,Shared ownership: Shared ownership,676,nonmigrant,311
-E09000020,Kensington and Chelsea,Social rented: Rents from council ,18430,nonmigrant,8492
-E09000020,Kensington and Chelsea,Private rented: Private landlord ,26460,nonmigrant,12192
-E09000020,Kensington and Chelsea,Lives rent free,127,nonmigrant,59
-E09000020,Kensington and Chelsea,Owned: Owns outright,13301,migrant,7172
-E09000020,Kensington and Chelsea,Owned: Owns with a mortgage,7890,migrant,4255
-E09000020,Kensington and Chelsea,Shared ownership: Shared ownership,676,migrant,365
-E09000020,Kensington and Chelsea,Social rented: Rents from council ,18430,migrant,9938
-E09000020,Kensington and Chelsea,Private rented: Private landlord ,26460,migrant,14268
-E09000020,Kensington and Chelsea,Lives rent free,127,migrant,68
-E09000021,Kingston upon Thames,Owned: Owns outright,18519,nonmigrant,12281
-E09000021,Kingston upon Thames,Owned: Owns with a mortgage,21418,nonmigrant,14204
-E09000021,Kingston upon Thames,Shared ownership: Shared ownership,460,nonmigrant,305
-E09000021,Kingston upon Thames,Social rented: Rents from council ,7244,nonmigrant,4804
-E09000021,Kingston upon Thames,Private rented: Private landlord ,17911,nonmigrant,11878
-E09000021,Kingston upon Thames,Lives rent free,76,nonmigrant,50
-E09000021,Kingston upon Thames,Owned: Owns outright,18519,migrant,6238
-E09000021,Kingston upon Thames,Owned: Owns with a mortgage,21418,migrant,7214
-E09000021,Kingston upon Thames,Shared ownership: Shared ownership,460,migrant,155
-E09000021,Kingston upon Thames,Social rented: Rents from council ,7244,migrant,2440
-E09000021,Kingston upon Thames,Private rented: Private landlord ,17911,migrant,6033
-E09000021,Kingston upon Thames,Lives rent free,76,migrant,26
-E09000022,Lambeth,Owned: Owns outright,16180,nonmigrant,9937
-E09000022,Lambeth,Owned: Owns with a mortgage,28289,nonmigrant,17374
-E09000022,Lambeth,Shared ownership: Shared ownership,2441,nonmigrant,1499
-E09000022,Lambeth,Social rented: Rents from council ,45243,nonmigrant,27787
-E09000022,Lambeth,Private rented: Private landlord ,42329,nonmigrant,25997
-E09000022,Lambeth,Lives rent free,206,nonmigrant,127
-E09000022,Lambeth,Owned: Owns outright,16180,migrant,6243
-E09000022,Lambeth,Owned: Owns with a mortgage,28289,migrant,10915
-E09000022,Lambeth,Shared ownership: Shared ownership,2441,migrant,942
-E09000022,Lambeth,Social rented: Rents from council ,45243,migrant,17456
-E09000022,Lambeth,Private rented: Private landlord ,42329,migrant,16332
-E09000022,Lambeth,Lives rent free,206,migrant,79
-E09000023,Lewisham,Owned: Owns outright,18853,nonmigrant,12137
-E09000023,Lewisham,Owned: Owns with a mortgage,32377,nonmigrant,20843
-E09000023,Lewisham,Shared ownership: Shared ownership,1944,nonmigrant,1251
-E09000023,Lewisham,Social rented: Rents from council ,35753,nonmigrant,23016
-E09000023,Lewisham,Private rented: Private landlord ,33289,nonmigrant,21430
-E09000023,Lewisham,Lives rent free,177,nonmigrant,114
-E09000023,Lewisham,Owned: Owns outright,18853,migrant,6716
-E09000023,Lewisham,Owned: Owns with a mortgage,32377,migrant,11534
-E09000023,Lewisham,Shared ownership: Shared ownership,1944,migrant,693
-E09000023,Lewisham,Social rented: Rents from council ,35753,migrant,12737
-E09000023,Lewisham,Private rented: Private landlord ,33289,migrant,11859
-E09000023,Lewisham,Lives rent free,177,migrant,63
-E09000024,Merton,Owned: Owns outright,20695,nonmigrant,13084
-E09000024,Merton,Owned: Owns with a mortgage,24773,nonmigrant,15662
-E09000024,Merton,Shared ownership: Shared ownership,869,nonmigrant,549
-E09000024,Merton,Social rented: Rents from council ,11599,nonmigrant,7333
-E09000024,Merton,Private rented: Private landlord ,23748,nonmigrant,15014
-E09000024,Merton,Lives rent free,42,nonmigrant,27
-E09000024,Merton,Owned: Owns outright,20695,migrant,7611
-E09000024,Merton,Owned: Owns with a mortgage,24773,migrant,9111
-E09000024,Merton,Shared ownership: Shared ownership,869,migrant,320
-E09000024,Merton,Social rented: Rents from council ,11599,migrant,4266
-E09000024,Merton,Private rented: Private landlord ,23748,migrant,8734
-E09000024,Merton,Lives rent free,42,migrant,15
-E09000025,Newham,Owned: Owns outright,14695,nonmigrant,6800
-E09000025,Newham,Owned: Owns with a mortgage,20884,nonmigrant,9664
-E09000025,Newham,Shared ownership: Shared ownership,2739,nonmigrant,1268
-E09000025,Newham,Social rented: Rents from council ,32390,nonmigrant,14989
-E09000025,Newham,Private rented: Private landlord ,44479,nonmigrant,20583
-E09000025,Newham,Lives rent free,324,nonmigrant,150
-E09000025,Newham,Owned: Owns outright,14695,migrant,7895
-E09000025,Newham,Owned: Owns with a mortgage,20884,migrant,11220
-E09000025,Newham,Shared ownership: Shared ownership,2739,migrant,1471
-E09000025,Newham,Social rented: Rents from council ,32390,migrant,17401
-E09000025,Newham,Private rented: Private landlord ,44479,migrant,23896
-E09000025,Newham,Lives rent free,324,migrant,174
-E09000026,Redbridge,Owned: Owns outright,27956,nonmigrant,15765
-E09000026,Redbridge,Owned: Owns with a mortgage,31265,nonmigrant,17631
-E09000026,Redbridge,Shared ownership: Shared ownership,983,nonmigrant,554
-E09000026,Redbridge,Social rented: Rents from council ,16810,nonmigrant,9480
-E09000026,Redbridge,Private rented: Private landlord ,31576,nonmigrant,17806
-E09000026,Redbridge,Lives rent free,227,nonmigrant,128
-E09000026,Redbridge,Owned: Owns outright,27956,migrant,12191
-E09000026,Redbridge,Owned: Owns with a mortgage,31265,migrant,13634
-E09000026,Redbridge,Shared ownership: Shared ownership,983,migrant,429
-E09000026,Redbridge,Social rented: Rents from council ,16810,migrant,7330
-E09000026,Redbridge,Private rented: Private landlord ,31576,migrant,13770
-E09000026,Redbridge,Lives rent free,227,migrant,99
-E09000027,Richmond upon Thames,Owned: Owns outright,24535,nonmigrant,17471
-E09000027,Richmond upon Thames,Owned: Owns with a mortgage,25826,nonmigrant,18390
-E09000027,Richmond upon Thames,Shared ownership: Shared ownership,560,nonmigrant,399
-E09000027,Richmond upon Thames,Social rented: Rents from council ,17675,nonmigrant,12586
-E09000027,Richmond upon Thames,Private rented: Private landlord ,19970,nonmigrant,14220
-E09000027,Richmond upon Thames,Lives rent free,61,nonmigrant,43
-E09000027,Richmond upon Thames,Owned: Owns outright,24535,migrant,7064
-E09000027,Richmond upon Thames,Owned: Owns with a mortgage,25826,migrant,7436
-E09000027,Richmond upon Thames,Shared ownership: Shared ownership,560,migrant,161
-E09000027,Richmond upon Thames,Social rented: Rents from council ,17675,migrant,5089
-E09000027,Richmond upon Thames,Private rented: Private landlord ,19970,migrant,5750
-E09000027,Richmond upon Thames,Lives rent free,61,migrant,18
-E09000028,Southwark,Owned: Owns outright,13879,nonmigrant,8229
-E09000028,Southwark,Owned: Owns with a mortgage,23870,nonmigrant,14152
-E09000028,Southwark,Shared ownership: Shared ownership,3182,nonmigrant,1887
-E09000028,Southwark,Social rented: Rents from council ,51991,nonmigrant,30825
-E09000028,Southwark,Private rented: Private landlord ,37506,nonmigrant,22237
-E09000028,Southwark,Lives rent free,392,nonmigrant,232
-E09000028,Southwark,Owned: Owns outright,13879,migrant,5650
-E09000028,Southwark,Owned: Owns with a mortgage,23870,migrant,9718
-E09000028,Southwark,Shared ownership: Shared ownership,3182,migrant,1295
-E09000028,Southwark,Social rented: Rents from council ,51991,migrant,21166
-E09000028,Southwark,Private rented: Private landlord ,37506,migrant,15269
-E09000028,Southwark,Lives rent free,392,migrant,160
-E09000029,Sutton,Owned: Owns outright,23400,nonmigrant,13874
-E09000029,Sutton,Owned: Owns with a mortgage,29647,nonmigrant,17577
-E09000029,Sutton,Shared ownership: Shared ownership,889,nonmigrant,527
-E09000029,Sutton,Social rented: Rents from council ,11667,nonmigrant,6917
-E09000029,Sutton,Private rented: Private landlord ,16683,nonmigrant,9891
-E09000029,Sutton,Lives rent free,61,nonmigrant,36
-E09000029,Sutton,Owned: Owns outright,23400,migrant,10951
-E09000029,Sutton,Owned: Owns with a mortgage,29647,migrant,13875
-E09000029,Sutton,Shared ownership: Shared ownership,889,migrant,416
-E09000029,Sutton,Social rented: Rents from council ,11667,migrant,5460
-E09000029,Sutton,Private rented: Private landlord ,16683,migrant,7808
-E09000029,Sutton,Lives rent free,61,migrant,29
-E09000030,Tower Hamlets,Owned: Owns outright,9424,nonmigrant,5014
-E09000030,Tower Hamlets,Owned: Owns with a mortgage,18459,nonmigrant,9820
-E09000030,Tower Hamlets,Shared ownership: Shared ownership,3143,nonmigrant,1672
-E09000030,Tower Hamlets,Social rented: Rents from council ,43237,nonmigrant,23002
-E09000030,Tower Hamlets,Private rented: Private landlord ,46000,nonmigrant,24472
-E09000030,Tower Hamlets,Lives rent free,276,nonmigrant,147
-E09000030,Tower Hamlets,Owned: Owns outright,9424,migrant,4410
-E09000030,Tower Hamlets,Owned: Owns with a mortgage,18459,migrant,8639
-E09000030,Tower Hamlets,Shared ownership: Shared ownership,3143,migrant,1471
-E09000030,Tower Hamlets,Social rented: Rents from council ,43237,migrant,20235
-E09000030,Tower Hamlets,Private rented: Private landlord ,46000,migrant,21528
-E09000030,Tower Hamlets,Lives rent free,276,migrant,129
-E09000031,Waltham Forest,Owned: Owns outright,20817,nonmigrant,12790
-E09000031,Waltham Forest,Owned: Owns with a mortgage,29539,nonmigrant,18149
-E09000031,Waltham Forest,Shared ownership: Shared ownership,1700,nonmigrant,1044
-E09000031,Waltham Forest,Social rented: Rents from council ,22099,nonmigrant,13578
-E09000031,Waltham Forest,Private rented: Private landlord ,28593,nonmigrant,17568
-E09000031,Waltham Forest,Lives rent free,153,nonmigrant,94
-E09000031,Waltham Forest,Owned: Owns outright,20817,migrant,8027
-E09000031,Waltham Forest,Owned: Owns with a mortgage,29539,migrant,11390
-E09000031,Waltham Forest,Shared ownership: Shared ownership,1700,migrant,656
-E09000031,Waltham Forest,Social rented: Rents from council ,22099,migrant,8521
-E09000031,Waltham Forest,Private rented: Private landlord ,28593,migrant,11025
-E09000031,Waltham Forest,Lives rent free,153,migrant,59
-E09000032,Wandsworth,Owned: Owns outright,24410,nonmigrant,15154
-E09000032,Wandsworth,Owned: Owns with a mortgage,33915,nonmigrant,21055
-E09000032,Wandsworth,Shared ownership: Shared ownership,2509,nonmigrant,1558
-E09000032,Wandsworth,Social rented: Rents from council ,26544,nonmigrant,16479
-E09000032,Wandsworth,Private rented: Private landlord ,49830,nonmigrant,30935
-E09000032,Wandsworth,Lives rent free,184,nonmigrant,114
-E09000032,Wandsworth,Owned: Owns outright,24410,migrant,9256
-E09000032,Wandsworth,Owned: Owns with a mortgage or loan,33915,migrant,12860
-E09000032,Wandsworth,Shared ownership: Shared ownership,2509,migrant,951
-E09000032,Wandsworth,Social rented: Rents from council ,26544,migrant,10065
-E09000032,Wandsworth,Private rented: Private landlord ,49830,migrant,18895
-E09000032,Wandsworth,Lives rent free,184,migrant,70
-E09000033,Westminster,Owned: Owns outright,15213,nonmigrant,6756
-E09000033,Westminster,Owned: Owns with a mortgage or loan,10749,nonmigrant,4774
-E09000033,Westminster,Shared ownership: Shared ownership,695,nonmigrant,309
-E09000033,Westminster,Social rented: Rents from council ,26810,nonmigrant,11906
-E09000033,Westminster,Private rented: Private landlord ,41065,nonmigrant,18237
-E09000033,Westminster,Lives rent free,284,nonmigrant,126
-E09000033,Westminster,Owned: Owns outright,15213,migrant,8457
-E09000033,Westminster,Owned: Owns with a mortgage or loan,10749,migrant,5975
-E09000033,Westminster,Shared ownership: Shared ownership,695,migrant,386
-E09000033,Westminster,Social rented: Rents from council ,26810,migrant,14904
-E09000033,Westminster,Private rented: Private landlord ,41065,migrant,22828
-E09000033,Westminster,Lives rent free,284,migrant,158
+E09000001,City of London,Owned: Owns outright,1114,Non-Migrant,562
+E09000001,City of London,Owned: Owns with a mortgage,680,Non-Migrant,343
+E09000001,City of London,Shared ownership: Shared ownership,12,Non-Migrant,6
+E09000001,City of London,Social rented: Rents from council ,730,Non-Migrant,368
+E09000001,City of London,Private rented: Private landlord ,2373,Non-Migrant,1196
+E09000001,City of London,Lives rent free,5,Non-Migrant,3
+E09000001,City of London,Owned: Owns outright,1114,Migrant,552
+E09000001,City of London,Owned: Owns with a mortgage,680,Migrant,337
+E09000001,City of London,Shared ownership: Shared ownership,12,Migrant,6
+E09000001,City of London,Social rented: Rents from council ,730,Migrant,362
+E09000001,City of London,Private rented: Private landlord ,2373,Migrant,1177
+E09000001,City of London,Lives rent free,5,Migrant,2
+E09000002,Barking and Dagenham,Owned: Owns outright,11130,Non-Migrant,6534
+E09000002,Barking and Dagenham,Owned: Owns with a mortgage,20189,Non-Migrant,11852
+E09000002,Barking and Dagenham,Shared ownership: Shared ownership,1274,Non-Migrant,748
+E09000002,Barking and Dagenham,Social rented: Rents from council ,18077,Non-Migrant,10612
+E09000002,Barking and Dagenham,Private rented: Private landlord ,17890,Non-Migrant,10502
+E09000002,Barking and Dagenham,Lives rent free,146,Non-Migrant,86
+E09000002,Barking and Dagenham,Owned: Owns outright,11130,Migrant,4596
+E09000002,Barking and Dagenham,Owned: Owns with a mortgage,20189,Migrant,8337
+E09000002,Barking and Dagenham,Shared ownership: Shared ownership,1274,Migrant,526
+E09000002,Barking and Dagenham,Social rented: Rents from council ,18077,Migrant,7465
+E09000002,Barking and Dagenham,Private rented: Private landlord ,17890,Migrant,7388
+E09000002,Barking and Dagenham,Lives rent free,146,Migrant,60
+E09000003,Barnet,Owned: Owns outright,39083,Non-Migrant,22214
+E09000003,Barnet,Owned: Owns with a mortgage,39324,Non-Migrant,22351
+E09000003,Barnet,Shared ownership: Shared ownership,1633,Non-Migrant,928
+E09000003,Barnet,Social rented: Rents from council ,20034,Non-Migrant,11387
+E09000003,Barnet,Private rented: Private landlord ,48705,Non-Migrant,27683
+E09000003,Barnet,Lives rent free,138,Non-Migrant,78
+E09000003,Barnet,Owned: Owns outright,39083,Migrant,16869
+E09000003,Barnet,Owned: Owns with a mortgage,39324,Migrant,16973
+E09000003,Barnet,Shared ownership: Shared ownership,1633,Migrant,705
+E09000003,Barnet,Social rented: Rents from council ,20034,Migrant,8647
+E09000003,Barnet,Private rented: Private landlord ,48705,Migrant,21022
+E09000003,Barnet,Lives rent free,138,Migrant,60
+E09000004,Bexley,Owned: Owns outright,31210,Non-Migrant,24656
+E09000004,Bexley,Owned: Owns with a mortgage,34207,Non-Migrant,27024
+E09000004,Bexley,Shared ownership: Shared ownership,1263,Non-Migrant,998
+E09000004,Bexley,Social rented: Rents from council ,13977,Non-Migrant,11042
+E09000004,Bexley,Private rented: Private landlord ,14578,Non-Migrant,11517
+E09000004,Bexley,Lives rent free,65,Non-Migrant,51
+E09000004,Bexley,Owned: Owns outright,31210,Migrant,6554
+E09000004,Bexley,Owned: Owns with a mortgage,34207,Migrant,7183
+E09000004,Bexley,Shared ownership: Shared ownership,1263,Migrant,265
+E09000004,Bexley,Social rented: Rents from council ,13977,Migrant,2935
+E09000004,Bexley,Private rented: Private landlord ,14578,Migrant,3061
+E09000004,Bexley,Lives rent free,65,Migrant,14
+E09000005,Brent,Owned: Owns outright,23933,Non-Migrant,10511
+E09000005,Brent,Owned: Owns with a mortgage,21660,Non-Migrant,9513
+E09000005,Brent,Shared ownership: Shared ownership,2246,Non-Migrant,986
+E09000005,Brent,Social rented: Rents from council ,27876,Non-Migrant,12243
+E09000005,Brent,Private rented: Private landlord ,42726,Non-Migrant,18764
+E09000005,Brent,Lives rent free,171,Non-Migrant,75
+E09000005,Brent,Owned: Owns outright,23933,Migrant,13422
+E09000005,Brent,Owned: Owns with a mortgage,21660,Migrant,12147
+E09000005,Brent,Shared ownership: Shared ownership,2246,Migrant,1260
+E09000005,Brent,Social rented: Rents from council ,27876,Migrant,15633
+E09000005,Brent,Private rented: Private landlord ,42726,Migrant,23962
+E09000005,Brent,Lives rent free,171,Migrant,96
+E09000006,Bromley,Owned: Owns outright,44794,Non-Migrant,35707
+E09000006,Bromley,Owned: Owns with a mortgage,48234,Non-Migrant,38450
+E09000006,Bromley,Shared ownership: Shared ownership,1166,Non-Migrant,929
+E09000006,Bromley,Social rented: Rents from council ,17926,Non-Migrant,14290
+E09000006,Bromley,Private rented: Private landlord ,23661,Non-Migrant,18861
+E09000006,Bromley,Lives rent free,47,Non-Migrant,37
+E09000006,Bromley,Owned: Owns outright,44794,Migrant,9087
+E09000006,Bromley,Owned: Owns with a mortgage,48234,Migrant,9784
+E09000006,Bromley,Shared ownership: Shared ownership,1166,Migrant,237
+E09000006,Bromley,Social rented: Rents from council ,17926,Migrant,3636
+E09000006,Bromley,Private rented: Private landlord ,23661,Migrant,4800
+E09000006,Bromley,Lives rent free,47,Migrant,10
+E09000007,Camden,Owned: Owns outright,14780,Non-Migrant,8064
+E09000007,Camden,Owned: Owns with a mortgage,12727,Non-Migrant,6944
+E09000007,Camden,Shared ownership: Shared ownership,715,Non-Migrant,390
+E09000007,Camden,Social rented: Rents from council ,41449,Non-Migrant,22614
+E09000007,Camden,Private rented: Private landlord ,33012,Non-Migrant,18011
+E09000007,Camden,Lives rent free,274,Non-Migrant,149
+E09000007,Camden,Owned: Owns outright,14780,Migrant,6716
+E09000007,Camden,Owned: Owns with a mortgage,12727,Migrant,5783
+E09000007,Camden,Shared ownership: Shared ownership,715,Migrant,325
+E09000007,Camden,Social rented: Rents from council ,41449,Migrant,18835
+E09000007,Camden,Private rented: Private landlord ,33012,Migrant,15001
+E09000007,Camden,Lives rent free,274,Migrant,125
+E09000008,Croydon,Owned: Owns outright,36992,Non-Migrant,24099
+E09000008,Croydon,Owned: Owns with a mortgage,46675,Non-Migrant,30407
+E09000008,Croydon,Shared ownership: Shared ownership,2183,Non-Migrant,1422
+E09000008,Croydon,Social rented: Rents from council ,39973,Non-Migrant,26041
+E09000008,Croydon,Private rented: Private landlord ,39441,Non-Migrant,25694
+E09000008,Croydon,Lives rent free,283,Non-Migrant,184
+E09000008,Croydon,Owned: Owns outright,36992,Migrant,12893
+E09000008,Croydon,Owned: Owns with a mortgage,46675,Migrant,16268
+E09000008,Croydon,Shared ownership: Shared ownership,2183,Migrant,761
+E09000008,Croydon,Social rented: Rents from council ,39973,Migrant,13932
+E09000008,Croydon,Private rented: Private landlord ,39441,Migrant,13747
+E09000008,Croydon,Lives rent free,283,Migrant,99
+E09000009,Ealing,Owned: Owns outright,30275,Non-Migrant,14890
+E09000009,Ealing,Owned: Owns with a mortgage,31539,Non-Migrant,15512
+E09000009,Ealing,Shared ownership: Shared ownership,2658,Non-Migrant,1307
+E09000009,Ealing,Social rented: Rents from council ,23382,Non-Migrant,11500
+E09000009,Ealing,Private rented: Private landlord ,45490,Non-Migrant,22374
+E09000009,Ealing,Lives rent free,313,Non-Migrant,154
+E09000009,Ealing,Owned: Owns outright,30275,Migrant,15385
+E09000009,Ealing,Owned: Owns with a mortgage,31539,Migrant,16027
+E09000009,Ealing,Shared ownership: Shared ownership,2658,Migrant,1351
+E09000009,Ealing,Social rented: Rents from council ,23382,Migrant,11882
+E09000009,Ealing,Private rented: Private landlord ,45490,Migrant,23116
+E09000009,Ealing,Lives rent free,313,Migrant,159
+E09000010,Enfield,Owned: Owns outright,31740,Non-Migrant,18932
+E09000010,Enfield,Owned: Owns with a mortgage,31607,Non-Migrant,18852
+E09000010,Enfield,Shared ownership: Shared ownership,1319,Non-Migrant,787
+E09000010,Enfield,Social rented: Rents from council ,20573,Non-Migrant,12271
+E09000010,Enfield,Private rented: Private landlord ,35388,Non-Migrant,21108
+E09000010,Enfield,Lives rent free,296,Non-Migrant,177
+E09000010,Enfield,Owned: Owns outright,31740,Migrant,12808
+E09000010,Enfield,Owned: Owns with a mortgage,31607,Migrant,12755
+E09000010,Enfield,Shared ownership: Shared ownership,1319,Migrant,532
+E09000010,Enfield,Social rented: Rents from council ,20573,Migrant,8302
+E09000010,Enfield,Private rented: Private landlord ,35388,Migrant,14280
+E09000010,Enfield,Lives rent free,296,Migrant,119
+E09000011,Greenwich,Owned: Owns outright,18473,Non-Migrant,11540
+E09000011,Greenwich,Owned: Owns with a mortgage,28454,Non-Migrant,17775
+E09000011,Greenwich,Shared ownership: Shared ownership,2471,Non-Migrant,1544
+E09000011,Greenwich,Social rented: Rents from council ,35327,Non-Migrant,22069
+E09000011,Greenwich,Private rented: Private landlord ,29088,Non-Migrant,18171
+E09000011,Greenwich,Lives rent free,238,Non-Migrant,149
+E09000011,Greenwich,Owned: Owns outright,18473,Migrant,6933
+E09000011,Greenwich,Owned: Owns with a mortgage,28454,Migrant,10679
+E09000011,Greenwich,Shared ownership: Shared ownership,2471,Migrant,927
+E09000011,Greenwich,Social rented: Rents from council ,35327,Migrant,13258
+E09000011,Greenwich,Private rented: Private landlord ,29088,Migrant,10917
+E09000011,Greenwich,Lives rent free,238,Migrant,89
+E09000012,Hackney,Owned: Owns outright,10263,Non-Migrant,6187
+E09000012,Hackney,Owned: Owns with a mortgage,15803,Non-Migrant,9526
+E09000012,Hackney,Shared ownership: Shared ownership,2664,Non-Migrant,1606
+E09000012,Hackney,Social rented: Rents from council ,42945,Non-Migrant,25888
+E09000012,Hackney,Private rented: Private landlord ,34147,Non-Migrant,20585
+E09000012,Hackney,Lives rent free,259,Non-Migrant,156
+E09000012,Hackney,Owned: Owns outright,10263,Migrant,4076
+E09000012,Hackney,Owned: Owns with a mortgage,15803,Migrant,6277
+E09000012,Hackney,Shared ownership: Shared ownership,2664,Migrant,1058
+E09000012,Hackney,Social rented: Rents from council ,42945,Migrant,17057
+E09000012,Hackney,Private rented: Private landlord ,34147,Migrant,13562
+E09000012,Hackney,Lives rent free,259,Migrant,103
+E09000013,Hammersmith and Fulham,Owned: Owns outright,12483,Non-Migrant,6803
+E09000013,Hammersmith and Fulham,Owned: Owns with a mortgage,13607,Non-Migrant,7416
+E09000013,Hammersmith and Fulham,Shared ownership: Shared ownership,1208,Non-Migrant,658
+E09000013,Hammersmith and Fulham,Social rented: Rents from council ,24231,Non-Migrant,13206
+E09000013,Hammersmith and Fulham,Private rented: Private landlord ,29558,Non-Migrant,16109
+E09000013,Hammersmith and Fulham,Lives rent free,157,Non-Migrant,86
+E09000013,Hammersmith and Fulham,Owned: Owns outright,12483,Migrant,5680
+E09000013,Hammersmith and Fulham,Owned: Owns with a mortgage,13607,Migrant,6191
+E09000013,Hammersmith and Fulham,Shared ownership: Shared ownership,1208,Migrant,550
+E09000013,Hammersmith and Fulham,Social rented: Rents from council ,24231,Migrant,11025
+E09000013,Hammersmith and Fulham,Private rented: Private landlord ,29558,Migrant,13449
+E09000013,Hammersmith and Fulham,Lives rent free,157,Migrant,71
+E09000014,Haringey,Owned: Owns outright,18141,Non-Migrant,9826
+E09000014,Haringey,Owned: Owns with a mortgage,20975,Non-Migrant,11361
+E09000014,Haringey,Shared ownership: Shared ownership,1732,Non-Migrant,938
+E09000014,Haringey,Social rented: Rents from council ,26474,Non-Migrant,14339
+E09000014,Haringey,Private rented: Private landlord ,37376,Non-Migrant,20244
+E09000014,Haringey,Lives rent free,393,Non-Migrant,213
+E09000014,Haringey,Owned: Owns outright,18141,Migrant,8315
+E09000014,Haringey,Owned: Owns with a mortgage,20975,Migrant,9614
+E09000014,Haringey,Shared ownership: Shared ownership,1732,Migrant,794
+E09000014,Haringey,Social rented: Rents from council ,26474,Migrant,12135
+E09000014,Haringey,Private rented: Private landlord ,37376,Migrant,17132
+E09000014,Haringey,Lives rent free,393,Migrant,180
+E09000015,Harrow,Owned: Owns outright,26947,Non-Migrant,8844
+E09000015,Harrow,Owned: Owns with a mortgage,25743,Non-Migrant,8449
+E09000015,Harrow,Shared ownership: Shared ownership,1007,Non-Migrant,331
+E09000015,Harrow,Social rented: Rents from council ,9298,Non-Migrant,3052
+E09000015,Harrow,Private rented: Private landlord ,26495,Non-Migrant,8696
+E09000015,Harrow,Lives rent free,152,Non-Migrant,50
+E09000015,Harrow,Owned: Owns outright,26947,Migrant,18103
+E09000015,Harrow,Owned: Owns with a mortgage,25743,Migrant,17294
+E09000015,Harrow,Shared ownership: Shared ownership,1007,Migrant,676
+E09000015,Harrow,Social rented: Rents from council ,9298,Migrant,6246
+E09000015,Harrow,Private rented: Private landlord ,26495,Migrant,17799
+E09000015,Harrow,Lives rent free,152,Migrant,102
+E09000016,Havering,Owned: Owns outright,34918,Non-Migrant,28138
+E09000016,Havering,Owned: Owns with a mortgage,35461,Non-Migrant,28575
+E09000016,Havering,Shared ownership: Shared ownership,976,Non-Migrant,786
+E09000016,Havering,Social rented: Rents from council ,13807,Non-Migrant,11126
+E09000016,Havering,Private rented: Private landlord ,16019,Non-Migrant,12908
+E09000016,Havering,Lives rent free,95,Non-Migrant,77
+E09000016,Havering,Owned: Owns outright,34918,Migrant,6780
+E09000016,Havering,Owned: Owns with a mortgage,35461,Migrant,6886
+E09000016,Havering,Shared ownership: Shared ownership,976,Migrant,190
+E09000016,Havering,Social rented: Rents from council ,13807,Migrant,2681
+E09000016,Havering,Private rented: Private landlord ,16019,Migrant,3111
+E09000016,Havering,Lives rent free,95,Migrant,18
+E09000017,Hillingdon,Owned: Owns outright,28994,Non-Migrant,17843
+E09000017,Hillingdon,Owned: Owns with a mortgage,32837,Non-Migrant,20208
+E09000017,Hillingdon,Shared ownership: Shared ownership,1373,Non-Migrant,845
+E09000017,Hillingdon,Social rented: Rents from council ,17613,Non-Migrant,10839
+E09000017,Hillingdon,Private rented: Private landlord ,28276,Non-Migrant,17401
+E09000017,Hillingdon,Lives rent free,135,Non-Migrant,83
+E09000017,Hillingdon,Owned: Owns outright,28994,Migrant,11151
+E09000017,Hillingdon,Owned: Owns with a mortgage,32837,Migrant,12629
+E09000017,Hillingdon,Shared ownership: Shared ownership,1373,Migrant,528
+E09000017,Hillingdon,Social rented: Rents from council ,17613,Migrant,6774
+E09000017,Hillingdon,Private rented: Private landlord ,28276,Migrant,10875
+E09000017,Hillingdon,Lives rent free,135,Migrant,52
+E09000018,Hounslow,Owned: Owns outright,21761,Non-Migrant,10991
+E09000018,Hounslow,Owned: Owns with a mortgage,25283,Non-Migrant,12770
+E09000018,Hounslow,Shared ownership: Shared ownership,2225,Non-Migrant,1124
+E09000018,Hounslow,Social rented: Rents from council ,31788,Non-Migrant,16056
+E09000018,Hounslow,Private rented: Private landlord ,29537,Non-Migrant,14919
+E09000018,Hounslow,Lives rent free,286,Non-Migrant,144
+E09000018,Hounslow,Owned: Owns outright,21761,Migrant,10770
+E09000018,Hounslow,Owned: Owns with a mortgage,25283,Migrant,12513
+E09000018,Hounslow,Shared ownership: Shared ownership,2225,Migrant,1101
+E09000018,Hounslow,Social rented: Rents from council ,31788,Migrant,15732
+E09000018,Hounslow,Private rented: Private landlord ,29537,Migrant,14618
+E09000018,Hounslow,Lives rent free,286,Migrant,142
+E09000019,Islington,Owned: Owns outright,11151,Non-Migrant,6704
+E09000019,Islington,Owned: Owns with a mortgage,14589,Non-Migrant,8771
+E09000019,Islington,Shared ownership: Shared ownership,1580,Non-Migrant,950
+E09000019,Islington,Social rented: Rents from council ,38787,Non-Migrant,23319
+E09000019,Islington,Private rented: Private landlord ,30079,Non-Migrant,18083
+E09000019,Islington,Lives rent free,310,Non-Migrant,186
+E09000019,Islington,Owned: Owns outright,11151,Migrant,4447
+E09000019,Islington,Owned: Owns with a mortgage,14589,Migrant,5818
+E09000019,Islington,Shared ownership: Shared ownership,1580,Migrant,630
+E09000019,Islington,Social rented: Rents from council ,38787,Migrant,15468
+E09000019,Islington,Private rented: Private landlord ,30079,Migrant,11996
+E09000019,Islington,Lives rent free,310,Migrant,124
+E09000020,Kensington and Chelsea,Owned: Owns outright,13301,Non-Migrant,6129
+E09000020,Kensington and Chelsea,Owned: Owns with a mortgage,7890,Non-Migrant,3635
+E09000020,Kensington and Chelsea,Shared ownership: Shared ownership,676,Non-Migrant,311
+E09000020,Kensington and Chelsea,Social rented: Rents from council ,18430,Non-Migrant,8492
+E09000020,Kensington and Chelsea,Private rented: Private landlord ,26460,Non-Migrant,12192
+E09000020,Kensington and Chelsea,Lives rent free,127,Non-Migrant,59
+E09000020,Kensington and Chelsea,Owned: Owns outright,13301,Migrant,7172
+E09000020,Kensington and Chelsea,Owned: Owns with a mortgage,7890,Migrant,4255
+E09000020,Kensington and Chelsea,Shared ownership: Shared ownership,676,Migrant,365
+E09000020,Kensington and Chelsea,Social rented: Rents from council ,18430,Migrant,9938
+E09000020,Kensington and Chelsea,Private rented: Private landlord ,26460,Migrant,14268
+E09000020,Kensington and Chelsea,Lives rent free,127,Migrant,68
+E09000021,Kingston upon Thames,Owned: Owns outright,18519,Non-Migrant,12281
+E09000021,Kingston upon Thames,Owned: Owns with a mortgage,21418,Non-Migrant,14204
+E09000021,Kingston upon Thames,Shared ownership: Shared ownership,460,Non-Migrant,305
+E09000021,Kingston upon Thames,Social rented: Rents from council ,7244,Non-Migrant,4804
+E09000021,Kingston upon Thames,Private rented: Private landlord ,17911,Non-Migrant,11878
+E09000021,Kingston upon Thames,Lives rent free,76,Non-Migrant,50
+E09000021,Kingston upon Thames,Owned: Owns outright,18519,Migrant,6238
+E09000021,Kingston upon Thames,Owned: Owns with a mortgage,21418,Migrant,7214
+E09000021,Kingston upon Thames,Shared ownership: Shared ownership,460,Migrant,155
+E09000021,Kingston upon Thames,Social rented: Rents from council ,7244,Migrant,2440
+E09000021,Kingston upon Thames,Private rented: Private landlord ,17911,Migrant,6033
+E09000021,Kingston upon Thames,Lives rent free,76,Migrant,26
+E09000022,Lambeth,Owned: Owns outright,16180,Non-Migrant,9937
+E09000022,Lambeth,Owned: Owns with a mortgage,28289,Non-Migrant,17374
+E09000022,Lambeth,Shared ownership: Shared ownership,2441,Non-Migrant,1499
+E09000022,Lambeth,Social rented: Rents from council ,45243,Non-Migrant,27787
+E09000022,Lambeth,Private rented: Private landlord ,42329,Non-Migrant,25997
+E09000022,Lambeth,Lives rent free,206,Non-Migrant,127
+E09000022,Lambeth,Owned: Owns outright,16180,Migrant,6243
+E09000022,Lambeth,Owned: Owns with a mortgage,28289,Migrant,10915
+E09000022,Lambeth,Shared ownership: Shared ownership,2441,Migrant,942
+E09000022,Lambeth,Social rented: Rents from council ,45243,Migrant,17456
+E09000022,Lambeth,Private rented: Private landlord ,42329,Migrant,16332
+E09000022,Lambeth,Lives rent free,206,Migrant,79
+E09000023,Lewisham,Owned: Owns outright,18853,Non-Migrant,12137
+E09000023,Lewisham,Owned: Owns with a mortgage,32377,Non-Migrant,20843
+E09000023,Lewisham,Shared ownership: Shared ownership,1944,Non-Migrant,1251
+E09000023,Lewisham,Social rented: Rents from council ,35753,Non-Migrant,23016
+E09000023,Lewisham,Private rented: Private landlord ,33289,Non-Migrant,21430
+E09000023,Lewisham,Lives rent free,177,Non-Migrant,114
+E09000023,Lewisham,Owned: Owns outright,18853,Migrant,6716
+E09000023,Lewisham,Owned: Owns with a mortgage,32377,Migrant,11534
+E09000023,Lewisham,Shared ownership: Shared ownership,1944,Migrant,693
+E09000023,Lewisham,Social rented: Rents from council ,35753,Migrant,12737
+E09000023,Lewisham,Private rented: Private landlord ,33289,Migrant,11859
+E09000023,Lewisham,Lives rent free,177,Migrant,63
+E09000024,Merton,Owned: Owns outright,20695,Non-Migrant,13084
+E09000024,Merton,Owned: Owns with a mortgage,24773,Non-Migrant,15662
+E09000024,Merton,Shared ownership: Shared ownership,869,Non-Migrant,549
+E09000024,Merton,Social rented: Rents from council ,11599,Non-Migrant,7333
+E09000024,Merton,Private rented: Private landlord ,23748,Non-Migrant,15014
+E09000024,Merton,Lives rent free,42,Non-Migrant,27
+E09000024,Merton,Owned: Owns outright,20695,Migrant,7611
+E09000024,Merton,Owned: Owns with a mortgage,24773,Migrant,9111
+E09000024,Merton,Shared ownership: Shared ownership,869,Migrant,320
+E09000024,Merton,Social rented: Rents from council ,11599,Migrant,4266
+E09000024,Merton,Private rented: Private landlord ,23748,Migrant,8734
+E09000024,Merton,Lives rent free,42,Migrant,15
+E09000025,Newham,Owned: Owns outright,14695,Non-Migrant,6800
+E09000025,Newham,Owned: Owns with a mortgage,20884,Non-Migrant,9664
+E09000025,Newham,Shared ownership: Shared ownership,2739,Non-Migrant,1268
+E09000025,Newham,Social rented: Rents from council ,32390,Non-Migrant,14989
+E09000025,Newham,Private rented: Private landlord ,44479,Non-Migrant,20583
+E09000025,Newham,Lives rent free,324,Non-Migrant,150
+E09000025,Newham,Owned: Owns outright,14695,Migrant,7895
+E09000025,Newham,Owned: Owns with a mortgage,20884,Migrant,11220
+E09000025,Newham,Shared ownership: Shared ownership,2739,Migrant,1471
+E09000025,Newham,Social rented: Rents from council ,32390,Migrant,17401
+E09000025,Newham,Private rented: Private landlord ,44479,Migrant,23896
+E09000025,Newham,Lives rent free,324,Migrant,174
+E09000026,Redbridge,Owned: Owns outright,27956,Non-Migrant,15765
+E09000026,Redbridge,Owned: Owns with a mortgage,31265,Non-Migrant,17631
+E09000026,Redbridge,Shared ownership: Shared ownership,983,Non-Migrant,554
+E09000026,Redbridge,Social rented: Rents from council ,16810,Non-Migrant,9480
+E09000026,Redbridge,Private rented: Private landlord ,31576,Non-Migrant,17806
+E09000026,Redbridge,Lives rent free,227,Non-Migrant,128
+E09000026,Redbridge,Owned: Owns outright,27956,Migrant,12191
+E09000026,Redbridge,Owned: Owns with a mortgage,31265,Migrant,13634
+E09000026,Redbridge,Shared ownership: Shared ownership,983,Migrant,429
+E09000026,Redbridge,Social rented: Rents from council ,16810,Migrant,7330
+E09000026,Redbridge,Private rented: Private landlord ,31576,Migrant,13770
+E09000026,Redbridge,Lives rent free,227,Migrant,99
+E09000027,Richmond upon Thames,Owned: Owns outright,24535,Non-Migrant,17471
+E09000027,Richmond upon Thames,Owned: Owns with a mortgage,25826,Non-Migrant,18390
+E09000027,Richmond upon Thames,Shared ownership: Shared ownership,560,Non-Migrant,399
+E09000027,Richmond upon Thames,Social rented: Rents from council ,17675,Non-Migrant,12586
+E09000027,Richmond upon Thames,Private rented: Private landlord ,19970,Non-Migrant,14220
+E09000027,Richmond upon Thames,Lives rent free,61,Non-Migrant,43
+E09000027,Richmond upon Thames,Owned: Owns outright,24535,Migrant,7064
+E09000027,Richmond upon Thames,Owned: Owns with a mortgage,25826,Migrant,7436
+E09000027,Richmond upon Thames,Shared ownership: Shared ownership,560,Migrant,161
+E09000027,Richmond upon Thames,Social rented: Rents from council ,17675,Migrant,5089
+E09000027,Richmond upon Thames,Private rented: Private landlord ,19970,Migrant,5750
+E09000027,Richmond upon Thames,Lives rent free,61,Migrant,18
+E09000028,Southwark,Owned: Owns outright,13879,Non-Migrant,8229
+E09000028,Southwark,Owned: Owns with a mortgage,23870,Non-Migrant,14152
+E09000028,Southwark,Shared ownership: Shared ownership,3182,Non-Migrant,1887
+E09000028,Southwark,Social rented: Rents from council ,51991,Non-Migrant,30825
+E09000028,Southwark,Private rented: Private landlord ,37506,Non-Migrant,22237
+E09000028,Southwark,Lives rent free,392,Non-Migrant,232
+E09000028,Southwark,Owned: Owns outright,13879,Migrant,5650
+E09000028,Southwark,Owned: Owns with a mortgage,23870,Migrant,9718
+E09000028,Southwark,Shared ownership: Shared ownership,3182,Migrant,1295
+E09000028,Southwark,Social rented: Rents from council ,51991,Migrant,21166
+E09000028,Southwark,Private rented: Private landlord ,37506,Migrant,15269
+E09000028,Southwark,Lives rent free,392,Migrant,160
+E09000029,Sutton,Owned: Owns outright,23400,Non-Migrant,13874
+E09000029,Sutton,Owned: Owns with a mortgage,29647,Non-Migrant,17577
+E09000029,Sutton,Shared ownership: Shared ownership,889,Non-Migrant,527
+E09000029,Sutton,Social rented: Rents from council ,11667,Non-Migrant,6917
+E09000029,Sutton,Private rented: Private landlord ,16683,Non-Migrant,9891
+E09000029,Sutton,Lives rent free,61,Non-Migrant,36
+E09000029,Sutton,Owned: Owns outright,23400,Migrant,10951
+E09000029,Sutton,Owned: Owns with a mortgage,29647,Migrant,13875
+E09000029,Sutton,Shared ownership: Shared ownership,889,Migrant,416
+E09000029,Sutton,Social rented: Rents from council ,11667,Migrant,5460
+E09000029,Sutton,Private rented: Private landlord ,16683,Migrant,7808
+E09000029,Sutton,Lives rent free,61,Migrant,29
+E09000030,Tower Hamlets,Owned: Owns outright,9424,Non-Migrant,5014
+E09000030,Tower Hamlets,Owned: Owns with a mortgage,18459,Non-Migrant,9820
+E09000030,Tower Hamlets,Shared ownership: Shared ownership,3143,Non-Migrant,1672
+E09000030,Tower Hamlets,Social rented: Rents from council ,43237,Non-Migrant,23002
+E09000030,Tower Hamlets,Private rented: Private landlord ,46000,Non-Migrant,24472
+E09000030,Tower Hamlets,Lives rent free,276,Non-Migrant,147
+E09000030,Tower Hamlets,Owned: Owns outright,9424,Migrant,4410
+E09000030,Tower Hamlets,Owned: Owns with a mortgage,18459,Migrant,8639
+E09000030,Tower Hamlets,Shared ownership: Shared ownership,3143,Migrant,1471
+E09000030,Tower Hamlets,Social rented: Rents from council ,43237,Migrant,20235
+E09000030,Tower Hamlets,Private rented: Private landlord ,46000,Migrant,21528
+E09000030,Tower Hamlets,Lives rent free,276,Migrant,129
+E09000031,Waltham Forest,Owned: Owns outright,20817,Non-Migrant,12790
+E09000031,Waltham Forest,Owned: Owns with a mortgage,29539,Non-Migrant,18149
+E09000031,Waltham Forest,Shared ownership: Shared ownership,1700,Non-Migrant,1044
+E09000031,Waltham Forest,Social rented: Rents from council ,22099,Non-Migrant,13578
+E09000031,Waltham Forest,Private rented: Private landlord ,28593,Non-Migrant,17568
+E09000031,Waltham Forest,Lives rent free,153,Non-Migrant,94
+E09000031,Waltham Forest,Owned: Owns outright,20817,Migrant,8027
+E09000031,Waltham Forest,Owned: Owns with a mortgage,29539,Migrant,11390
+E09000031,Waltham Forest,Shared ownership: Shared ownership,1700,Migrant,656
+E09000031,Waltham Forest,Social rented: Rents from council ,22099,Migrant,8521
+E09000031,Waltham Forest,Private rented: Private landlord ,28593,Migrant,11025
+E09000031,Waltham Forest,Lives rent free,153,Migrant,59
+E09000032,Wandsworth,Owned: Owns outright,24410,Non-Migrant,15154
+E09000032,Wandsworth,Owned: Owns with a mortgage,33915,Non-Migrant,21055
+E09000032,Wandsworth,Shared ownership: Shared ownership,2509,Non-Migrant,1558
+E09000032,Wandsworth,Social rented: Rents from council ,26544,Non-Migrant,16479
+E09000032,Wandsworth,Private rented: Private landlord ,49830,Non-Migrant,30935
+E09000032,Wandsworth,Lives rent free,184,Non-Migrant,114
+E09000032,Wandsworth,Owned: Owns outright,24410,Migrant,9256
+E09000032,Wandsworth,Owned: Owns with a mortgage or loan,33915,Migrant,12860
+E09000032,Wandsworth,Shared ownership: Shared ownership,2509,Migrant,951
+E09000032,Wandsworth,Social rented: Rents from council ,26544,Migrant,10065
+E09000032,Wandsworth,Private rented: Private landlord ,49830,Migrant,18895
+E09000032,Wandsworth,Lives rent free,184,Migrant,70
+E09000033,Westminster,Owned: Owns outright,15213,Non-Migrant,6756
+E09000033,Westminster,Owned: Owns with a mortgage or loan,10749,Non-Migrant,4774
+E09000033,Westminster,Shared ownership: Shared ownership,695,Non-Migrant,309
+E09000033,Westminster,Social rented: Rents from council ,26810,Non-Migrant,11906
+E09000033,Westminster,Private rented: Private landlord ,41065,Non-Migrant,18237
+E09000033,Westminster,Lives rent free,284,Non-Migrant,126
+E09000033,Westminster,Owned: Owns outright,15213,Migrant,8457
+E09000033,Westminster,Owned: Owns with a mortgage or loan,10749,Migrant,5975
+E09000033,Westminster,Shared ownership: Shared ownership,695,Migrant,386
+E09000033,Westminster,Social rented: Rents from council ,26810,Migrant,14904
+E09000033,Westminster,Private rented: Private landlord ,41065,Migrant,22828
+E09000033,Westminster,Lives rent free,284,Migrant,158

@@ -1,329 +1,329 @@
 la_Code,Borough,Occ_Rating,Observation,Value,Status
-E09000001,City of London,rating: +2 or more,390,197,nonMigrant
-E09000001,City of London,rating: +1,1158,584,nonMigrant
-E09000001,City of London,rating: 0,3133,1580,nonMigrant
-E09000001,City of London,rating: -1,207,104,nonMigrant
-E09000001,City of London,rating: -2 or less,26,13,nonMigrant
+E09000001,City of London,rating: +2 or more,390,197,Non-Migrant
+E09000001,City of London,rating: +1,1158,584,Non-Migrant
+E09000001,City of London,rating: 0,3133,1580,Non-Migrant
+E09000001,City of London,rating: -1,207,104,Non-Migrant
+E09000001,City of London,rating: -2 or less,26,13,Non-Migrant
 E09000001,City of London,rating: +2 or more,390,193,Migrant
 E09000001,City of London,rating: +1,1158,574,Migrant
 E09000001,City of London,rating: 0,3133,1553,Migrant
 E09000001,City of London,rating: -1,207,103,Migrant
 E09000001,City of London,rating: -2 or less,26,13,Migrant
-E09000002,Barking and Dagenham,rating: +2 or more,10720,6293,nonMigrant
-E09000002,Barking and Dagenham,rating: +1,19248,11299,nonMigrant
-E09000002,Barking and Dagenham,rating: 0,30793,18076,nonMigrant
-E09000002,Barking and Dagenham,rating: -1,10629,6240,nonMigrant
-E09000002,Barking and Dagenham,rating: -2 or less,2512,1475,nonMigrant
+E09000002,Barking and Dagenham,rating: +2 or more,10720,6293,Non-Migrant
+E09000002,Barking and Dagenham,rating: +1,19248,11299,Non-Migrant
+E09000002,Barking and Dagenham,rating: 0,30793,18076,Non-Migrant
+E09000002,Barking and Dagenham,rating: -1,10629,6240,Non-Migrant
+E09000002,Barking and Dagenham,rating: -2 or less,2512,1475,Non-Migrant
 E09000002,Barking and Dagenham,rating: +2 or more,10720,4427,Migrant
 E09000002,Barking and Dagenham,rating: +1,19248,7949,Migrant
 E09000002,Barking and Dagenham,rating: 0,30793,12717,Migrant
 E09000002,Barking and Dagenham,rating: -1,10629,4389,Migrant
 E09000002,Barking and Dagenham,rating: -2 or less,2512,1037,Migrant
-E09000003,Barnet,rating: +2 or more,42709,24275,nonMigrant
-E09000003,Barnet,rating: +1,40449,22990,nonMigrant
-E09000003,Barnet,rating: 0,51793,29438,nonMigrant
-E09000003,Barnet,rating: -1,11644,6618,nonMigrant
-E09000003,Barnet,rating: -2 or less,2322,1320,nonMigrant
+E09000003,Barnet,rating: +2 or more,42709,24275,Non-Migrant
+E09000003,Barnet,rating: +1,40449,22990,Non-Migrant
+E09000003,Barnet,rating: 0,51793,29438,Non-Migrant
+E09000003,Barnet,rating: -1,11644,6618,Non-Migrant
+E09000003,Barnet,rating: -2 or less,2322,1320,Non-Migrant
 E09000003,Barnet,rating: +2 or more,42709,18434,Migrant
 E09000003,Barnet,rating: +1,40449,17459,Migrant
 E09000003,Barnet,rating: 0,51793,22355,Migrant
 E09000003,Barnet,rating: -1,11644,5026,Migrant
 E09000003,Barnet,rating: -2 or less,2322,1002,Migrant
-E09000004,Bexley,rating: +2 or more,30448,24054,nonMigrant
-E09000004,Bexley,rating: +1,31647,25001,nonMigrant
-E09000004,Bexley,rating: 0,27373,21625,nonMigrant
-E09000004,Bexley,rating: -1,4934,3898,nonMigrant
-E09000004,Bexley,rating: -2 or less,898,709,nonMigrant
+E09000004,Bexley,rating: +2 or more,30448,24054,Non-Migrant
+E09000004,Bexley,rating: +1,31647,25001,Non-Migrant
+E09000004,Bexley,rating: 0,27373,21625,Non-Migrant
+E09000004,Bexley,rating: -1,4934,3898,Non-Migrant
+E09000004,Bexley,rating: -2 or less,898,709,Non-Migrant
 E09000004,Bexley,rating: +2 or more,30448,6394,Migrant
 E09000004,Bexley,rating: +1,31647,6646,Migrant
 E09000004,Bexley,rating: 0,27373,5748,Migrant
 E09000004,Bexley,rating: -1,4934,1036,Migrant
 E09000004,Bexley,rating: -2 or less,898,189,Migrant
-E09000005,Brent,rating: +2 or more,22710,9974,nonMigrant
-E09000005,Brent,rating: +1,27337,12006,nonMigrant
-E09000005,Brent,rating: 0,48512,21305,nonMigrant
-E09000005,Brent,rating: -1,14926,6555,nonMigrant
-E09000005,Brent,rating: -2 or less,5127,2252,nonMigrant
+E09000005,Brent,rating: +2 or more,22710,9974,Non-Migrant
+E09000005,Brent,rating: +1,27337,12006,Non-Migrant
+E09000005,Brent,rating: 0,48512,21305,Non-Migrant
+E09000005,Brent,rating: -1,14926,6555,Non-Migrant
+E09000005,Brent,rating: -2 or less,5127,2252,Non-Migrant
 E09000005,Brent,rating: +2 or more,22710,12736,Migrant
 E09000005,Brent,rating: +1,27337,15331,Migrant
 E09000005,Brent,rating: 0,48512,27207,Migrant
 E09000005,Brent,rating: -1,14926,8371,Migrant
 E09000005,Brent,rating: -2 or less,5127,2875,Migrant
-E09000006,Bromley,rating: +2 or more,49715,39630,nonMigrant
-E09000006,Bromley,rating: +1,42488,33869,nonMigrant
-E09000006,Bromley,rating: 0,37505,29897,nonMigrant
-E09000006,Bromley,rating: -1,5425,4325,nonMigrant
-E09000006,Bromley,rating: -2 or less,695,554,nonMigrant
+E09000006,Bromley,rating: +2 or more,49715,39630,Non-Migrant
+E09000006,Bromley,rating: +1,42488,33869,Non-Migrant
+E09000006,Bromley,rating: 0,37505,29897,Non-Migrant
+E09000006,Bromley,rating: -1,5425,4325,Non-Migrant
+E09000006,Bromley,rating: -2 or less,695,554,Non-Migrant
 E09000006,Bromley,rating: +2 or more,49715,10085,Migrant
 E09000006,Bromley,rating: +1,42488,8619,Migrant
 E09000006,Bromley,rating: 0,37505,7608,Migrant
 E09000006,Bromley,rating: -1,5425,1100,Migrant
 E09000006,Bromley,rating: -2 or less,695,141,Migrant
-E09000007,Camden,rating: +2 or more,13329,7272,nonMigrant
-E09000007,Camden,rating: +1,24607,13425,nonMigrant
-E09000007,Camden,rating: 0,45985,25089,nonMigrant
-E09000007,Camden,rating: -1,7145,3898,nonMigrant
-E09000007,Camden,rating: -2 or less,1690,922,nonMigrant
+E09000007,Camden,rating: +2 or more,13329,7272,Non-Migrant
+E09000007,Camden,rating: +1,24607,13425,Non-Migrant
+E09000007,Camden,rating: 0,45985,25089,Non-Migrant
+E09000007,Camden,rating: -1,7145,3898,Non-Migrant
+E09000007,Camden,rating: -2 or less,1690,922,Non-Migrant
 E09000007,Camden,rating: +2 or more,13329,6057,Migrant
 E09000007,Camden,rating: +1,24607,11182,Migrant
 E09000007,Camden,rating: 0,45985,20896,Migrant
 E09000007,Camden,rating: -1,7145,3247,Migrant
 E09000007,Camden,rating: -2 or less,1690,768,Migrant
-E09000008,Croydon,rating: +2 or more,40376,26303,nonMigrant
-E09000008,Croydon,rating: +1,41807,27235,nonMigrant
-E09000008,Croydon,rating: 0,54895,35762,nonMigrant
-E09000008,Croydon,rating: -1,13402,8731,nonMigrant
-E09000008,Croydon,rating: -2 or less,2466,1606,nonMigrant
+E09000008,Croydon,rating: +2 or more,40376,26303,Non-Migrant
+E09000008,Croydon,rating: +1,41807,27235,Non-Migrant
+E09000008,Croydon,rating: 0,54895,35762,Non-Migrant
+E09000008,Croydon,rating: -1,13402,8731,Non-Migrant
+E09000008,Croydon,rating: -2 or less,2466,1606,Non-Migrant
 E09000008,Croydon,rating: +2 or more,40376,14073,Migrant
 E09000008,Croydon,rating: +1,41807,14572,Migrant
 E09000008,Croydon,rating: 0,54895,19133,Migrant
 E09000008,Croydon,rating: -1,13402,4671,Migrant
 E09000008,Croydon,rating: -2 or less,2466,860,Migrant
-E09000009,Ealing,rating: +2 or more,29916,14714,nonMigrant
-E09000009,Ealing,rating: +1,33372,16414,nonMigrant
-E09000009,Ealing,rating: 0,52743,25941,nonMigrant
-E09000009,Ealing,rating: -1,13826,6800,nonMigrant
-E09000009,Ealing,rating: -2 or less,3802,1870,nonMigrant
+E09000009,Ealing,rating: +2 or more,29916,14714,Non-Migrant
+E09000009,Ealing,rating: +1,33372,16414,Non-Migrant
+E09000009,Ealing,rating: 0,52743,25941,Non-Migrant
+E09000009,Ealing,rating: -1,13826,6800,Non-Migrant
+E09000009,Ealing,rating: -2 or less,3802,1870,Non-Migrant
 E09000009,Ealing,rating: +2 or more,29916,15202,Migrant
 E09000009,Ealing,rating: +1,33372,16958,Migrant
 E09000009,Ealing,rating: 0,52743,26802,Migrant
 E09000009,Ealing,rating: -1,13826,7026,Migrant
 E09000009,Ealing,rating: -2 or less,3802,1932,Migrant
-E09000010,Enfield,rating: +2 or more,30644,18278,nonMigrant
-E09000010,Enfield,rating: +1,31780,18956,nonMigrant
-E09000010,Enfield,rating: 0,42871,25571,nonMigrant
-E09000010,Enfield,rating: -1,12565,7495,nonMigrant
-E09000010,Enfield,rating: -2 or less,3065,1828,nonMigrant
+E09000010,Enfield,rating: +2 or more,30644,18278,Non-Migrant
+E09000010,Enfield,rating: +1,31780,18956,Non-Migrant
+E09000010,Enfield,rating: 0,42871,25571,Non-Migrant
+E09000010,Enfield,rating: -1,12565,7495,Non-Migrant
+E09000010,Enfield,rating: -2 or less,3065,1828,Non-Migrant
 E09000010,Enfield,rating: +2 or more,30644,12366,Migrant
 E09000010,Enfield,rating: +1,31780,12824,Migrant
 E09000010,Enfield,rating: 0,42871,17300,Migrant
 E09000010,Enfield,rating: -1,12565,5070,Migrant
 E09000010,Enfield,rating: -2 or less,3065,1237,Migrant
-E09000011,Greenwich,rating: +2 or more,22560,14093,nonMigrant
-E09000011,Greenwich,rating: +1,32976,20600,nonMigrant
-E09000011,Greenwich,rating: 0,46298,28922,nonMigrant
-E09000011,Greenwich,rating: -1,9947,6214,nonMigrant
-E09000011,Greenwich,rating: -2 or less,2272,1419,nonMigrant
+E09000011,Greenwich,rating: +2 or more,22560,14093,Non-Migrant
+E09000011,Greenwich,rating: +1,32976,20600,Non-Migrant
+E09000011,Greenwich,rating: 0,46298,28922,Non-Migrant
+E09000011,Greenwich,rating: -1,9947,6214,Non-Migrant
+E09000011,Greenwich,rating: -2 or less,2272,1419,Non-Migrant
 E09000011,Greenwich,rating: +2 or more,22560,8467,Migrant
 E09000011,Greenwich,rating: +1,32976,12376,Migrant
 E09000011,Greenwich,rating: 0,46298,17376,Migrant
 E09000011,Greenwich,rating: -1,9947,3733,Migrant
 E09000011,Greenwich,rating: -2 or less,2272,853,Migrant
-E09000012,Hackney,rating: +2 or more,12588,7588,nonMigrant
-E09000012,Hackney,rating: +1,25814,15561,nonMigrant
-E09000012,Hackney,rating: 0,54209,32678,nonMigrant
-E09000012,Hackney,rating: -1,11070,6673,nonMigrant
-E09000012,Hackney,rating: -2 or less,2400,1447,nonMigrant
+E09000012,Hackney,rating: +2 or more,12588,7588,Non-Migrant
+E09000012,Hackney,rating: +1,25814,15561,Non-Migrant
+E09000012,Hackney,rating: 0,54209,32678,Non-Migrant
+E09000012,Hackney,rating: -1,11070,6673,Non-Migrant
+E09000012,Hackney,rating: -2 or less,2400,1447,Non-Migrant
 E09000012,Hackney,rating: +2 or more,12588,5000,Migrant
 E09000012,Hackney,rating: +1,25814,10253,Migrant
 E09000012,Hackney,rating: 0,54209,21531,Migrant
 E09000012,Hackney,rating: -1,11070,4397,Migrant
 E09000012,Hackney,rating: -2 or less,2400,953,Migrant
-E09000013,Hammersmith and Fulham,rating: +2 or more,14293,7789,nonMigrant
-E09000013,Hammersmith and Fulham,rating: +1,20429,11134,nonMigrant
-E09000013,Hammersmith and Fulham,rating: 0,39129,21325,nonMigrant
-E09000013,Hammersmith and Fulham,rating: -1,6206,3382,nonMigrant
-E09000013,Hammersmith and Fulham,rating: -2 or less,1187,647,nonMigrant
+E09000013,Hammersmith and Fulham,rating: +2 or more,14293,7789,Non-Migrant
+E09000013,Hammersmith and Fulham,rating: +1,20429,11134,Non-Migrant
+E09000013,Hammersmith and Fulham,rating: 0,39129,21325,Non-Migrant
+E09000013,Hammersmith and Fulham,rating: -1,6206,3382,Non-Migrant
+E09000013,Hammersmith and Fulham,rating: -2 or less,1187,647,Non-Migrant
 E09000013,Hammersmith and Fulham,rating: +2 or more,14293,6504,Migrant
 E09000013,Hammersmith and Fulham,rating: +1,20429,9295,Migrant
 E09000013,Hammersmith and Fulham,rating: 0,39129,17804,Migrant
 E09000013,Hammersmith and Fulham,rating: -1,6206,2824,Migrant
 E09000013,Hammersmith and Fulham,rating: -2 or less,1187,540,Migrant
-E09000014,Haringey,rating: +2 or more,19716,10679,nonMigrant
-E09000014,Haringey,rating: +1,25609,13870,nonMigrant
-E09000014,Haringey,rating: 0,45622,24710,nonMigrant
-E09000014,Haringey,rating: -1,11210,6072,nonMigrant
-E09000014,Haringey,rating: -2 or less,2935,1590,nonMigrant
+E09000014,Haringey,rating: +2 or more,19716,10679,Non-Migrant
+E09000014,Haringey,rating: +1,25609,13870,Non-Migrant
+E09000014,Haringey,rating: 0,45622,24710,Non-Migrant
+E09000014,Haringey,rating: -1,11210,6072,Non-Migrant
+E09000014,Haringey,rating: -2 or less,2935,1590,Non-Migrant
 E09000014,Haringey,rating: +2 or more,19716,9037,Migrant
 E09000014,Haringey,rating: +1,25609,11739,Migrant
 E09000014,Haringey,rating: 0,45622,20912,Migrant
 E09000014,Haringey,rating: -1,11210,5138,Migrant
 E09000014,Haringey,rating: -2 or less,2935,1345,Migrant
-E09000015,Harrow,rating: +2 or more,26513,8702,nonMigrant
-E09000015,Harrow,rating: +1,24177,7935,nonMigrant
-E09000015,Harrow,rating: 0,28019,9196,nonMigrant
-E09000015,Harrow,rating: -1,8438,2769,nonMigrant
-E09000015,Harrow,rating: -2 or less,2496,819,nonMigrant
+E09000015,Harrow,rating: +2 or more,26513,8702,Non-Migrant
+E09000015,Harrow,rating: +1,24177,7935,Non-Migrant
+E09000015,Harrow,rating: 0,28019,9196,Non-Migrant
+E09000015,Harrow,rating: -1,8438,2769,Non-Migrant
+E09000015,Harrow,rating: -2 or less,2496,819,Non-Migrant
 E09000015,Harrow,rating: +2 or more,26513,17811,Migrant
 E09000015,Harrow,rating: +1,24177,16242,Migrant
 E09000015,Harrow,rating: 0,28019,18823,Migrant
 E09000015,Harrow,rating: -1,8438,5669,Migrant
 E09000015,Harrow,rating: -2 or less,2496,1677,Migrant
-E09000016,Havering,rating: +2 or more,34335,27668,nonMigrant
-E09000016,Havering,rating: +1,32449,26148,nonMigrant
-E09000016,Havering,rating: 0,28368,22860,nonMigrant
-E09000016,Havering,rating: -1,5266,4243,nonMigrant
-E09000016,Havering,rating: -2 or less,859,692,nonMigrant
+E09000016,Havering,rating: +2 or more,34335,27668,Non-Migrant
+E09000016,Havering,rating: +1,32449,26148,Non-Migrant
+E09000016,Havering,rating: 0,28368,22860,Non-Migrant
+E09000016,Havering,rating: -1,5266,4243,Non-Migrant
+E09000016,Havering,rating: -2 or less,859,692,Non-Migrant
 E09000016,Havering,rating: +2 or more,34335,6667,Migrant
 E09000016,Havering,rating: +1,32449,6301,Migrant
 E09000016,Havering,rating: 0,28368,5508,Migrant
 E09000016,Havering,rating: -1,5266,1023,Migrant
 E09000016,Havering,rating: -2 or less,859,167,Migrant
-E09000017,Hillingdon,rating: +2 or more,27287,16793,nonMigrant
-E09000017,Hillingdon,rating: +1,31476,19371,nonMigrant
-E09000017,Hillingdon,rating: 0,38076,23432,nonMigrant
-E09000017,Hillingdon,rating: -1,9984,6144,nonMigrant
-E09000017,Hillingdon,rating: -2 or less,2405,1480,nonMigrant
+E09000017,Hillingdon,rating: +2 or more,27287,16793,Non-Migrant
+E09000017,Hillingdon,rating: +1,31476,19371,Non-Migrant
+E09000017,Hillingdon,rating: 0,38076,23432,Non-Migrant
+E09000017,Hillingdon,rating: -1,9984,6144,Non-Migrant
+E09000017,Hillingdon,rating: -2 or less,2405,1480,Non-Migrant
 E09000017,Hillingdon,rating: +2 or more,27287,10494,Migrant
 E09000017,Hillingdon,rating: +1,31476,12105,Migrant
 E09000017,Hillingdon,rating: 0,38076,14644,Migrant
 E09000017,Hillingdon,rating: -1,9984,3840,Migrant
 E09000017,Hillingdon,rating: -2 or less,2405,925,Migrant
-E09000018,Hounslow,rating: +2 or more,21000,10607,nonMigrant
-E09000018,Hounslow,rating: +1,26288,13278,nonMigrant
-E09000018,Hounslow,rating: 0,40684,20549,nonMigrant
-E09000018,Hounslow,rating: -1,11544,5831,nonMigrant
-E09000018,Hounslow,rating: -2 or less,3445,1740,nonMigrant
+E09000018,Hounslow,rating: +2 or more,21000,10607,Non-Migrant
+E09000018,Hounslow,rating: +1,26288,13278,Non-Migrant
+E09000018,Hounslow,rating: 0,40684,20549,Non-Migrant
+E09000018,Hounslow,rating: -1,11544,5831,Non-Migrant
+E09000018,Hounslow,rating: -2 or less,3445,1740,Non-Migrant
 E09000018,Hounslow,rating: +2 or more,21000,10393,Migrant
 E09000018,Hounslow,rating: +1,26288,13010,Migrant
 E09000018,Hounslow,rating: 0,40684,20135,Migrant
 E09000018,Hounslow,rating: -1,11544,5713,Migrant
 E09000018,Hounslow,rating: -2 or less,3445,1705,Migrant
-E09000019,Islington,rating: +2 or more,11346,6821,nonMigrant
-E09000019,Islington,rating: +1,24582,14779,nonMigrant
-E09000019,Islington,rating: 0,51520,30974,nonMigrant
-E09000019,Islington,rating: -1,7695,4626,nonMigrant
-E09000019,Islington,rating: -2 or less,1353,813,nonMigrant
+E09000019,Islington,rating: +2 or more,11346,6821,Non-Migrant
+E09000019,Islington,rating: +1,24582,14779,Non-Migrant
+E09000019,Islington,rating: 0,51520,30974,Non-Migrant
+E09000019,Islington,rating: -1,7695,4626,Non-Migrant
+E09000019,Islington,rating: -2 or less,1353,813,Non-Migrant
 E09000019,Islington,rating: +2 or more,11346,4525,Migrant
 E09000019,Islington,rating: +1,24582,9803,Migrant
 E09000019,Islington,rating: 0,51520,20546,Migrant
 E09000019,Islington,rating: -1,7695,3069,Migrant
 E09000019,Islington,rating: -2 or less,1353,540,Migrant
-E09000020,Kensington and Chelsea,rating: +2 or more,10894,5020,nonMigrant
-E09000020,Kensington and Chelsea,rating: +1,19296,8891,nonMigrant
-E09000020,Kensington and Chelsea,rating: 0,31270,14408,nonMigrant
-E09000020,Kensington and Chelsea,rating: -1,4112,1895,nonMigrant
-E09000020,Kensington and Chelsea,rating: -2 or less,1312,605,nonMigrant
+E09000020,Kensington and Chelsea,rating: +2 or more,10894,5020,Non-Migrant
+E09000020,Kensington and Chelsea,rating: +1,19296,8891,Non-Migrant
+E09000020,Kensington and Chelsea,rating: 0,31270,14408,Non-Migrant
+E09000020,Kensington and Chelsea,rating: -1,4112,1895,Non-Migrant
+E09000020,Kensington and Chelsea,rating: -2 or less,1312,605,Non-Migrant
 E09000020,Kensington and Chelsea,rating: +2 or more,10894,5874,Migrant
 E09000020,Kensington and Chelsea,rating: +1,19296,10405,Migrant
 E09000020,Kensington and Chelsea,rating: 0,31270,16862,Migrant
 E09000020,Kensington and Chelsea,rating: -1,4112,2217,Migrant
 E09000020,Kensington and Chelsea,rating: -2 or less,1312,707,Migrant
-E09000021,Kingston upon Thames,rating: +2 or more,21342,14154,nonMigrant
-E09000021,Kingston upon Thames,rating: +1,19673,13047,nonMigrant
-E09000021,Kingston upon Thames,rating: 0,20673,13710,nonMigrant
-E09000021,Kingston upon Thames,rating: -1,3420,2268,nonMigrant
-E09000021,Kingston upon Thames,rating: -2 or less,518,344,nonMigrant
+E09000021,Kingston upon Thames,rating: +2 or more,21342,14154,Non-Migrant
+E09000021,Kingston upon Thames,rating: +1,19673,13047,Non-Migrant
+E09000021,Kingston upon Thames,rating: 0,20673,13710,Non-Migrant
+E09000021,Kingston upon Thames,rating: -1,3420,2268,Non-Migrant
+E09000021,Kingston upon Thames,rating: -2 or less,518,344,Non-Migrant
 E09000021,Kingston upon Thames,rating: +2 or more,21342,7188,Migrant
 E09000021,Kingston upon Thames,rating: +1,19673,6626,Migrant
 E09000021,Kingston upon Thames,rating: 0,20673,6963,Migrant
 E09000021,Kingston upon Thames,rating: -1,3420,1152,Migrant
 E09000021,Kingston upon Thames,rating: -2 or less,518,174,Migrant
-E09000022,Lambeth,rating: +2 or more,21600,13266,nonMigrant
-E09000022,Lambeth,rating: +1,34995,21493,nonMigrant
-E09000022,Lambeth,rating: 0,63871,39227,nonMigrant
-E09000022,Lambeth,rating: -1,11440,7026,nonMigrant
-E09000022,Lambeth,rating: -2 or less,2783,1709,nonMigrant
+E09000022,Lambeth,rating: +2 or more,21600,13266,Non-Migrant
+E09000022,Lambeth,rating: +1,34995,21493,Non-Migrant
+E09000022,Lambeth,rating: 0,63871,39227,Non-Migrant
+E09000022,Lambeth,rating: -1,11440,7026,Non-Migrant
+E09000022,Lambeth,rating: -2 or less,2783,1709,Non-Migrant
 E09000022,Lambeth,rating: +2 or more,21600,8334,Migrant
 E09000022,Lambeth,rating: +1,34995,13502,Migrant
 E09000022,Lambeth,rating: 0,63871,24644,Migrant
 E09000022,Lambeth,rating: -1,11440,4414,Migrant
 E09000022,Lambeth,rating: -2 or less,2783,1074,Migrant
-E09000023,Lewisham,rating: +2 or more,22849,14709,nonMigrant
-E09000023,Lewisham,rating: +1,33308,21442,nonMigrant
-E09000023,Lewisham,rating: 0,52274,33652,nonMigrant
-E09000023,Lewisham,rating: -1,11211,7217,nonMigrant
-E09000023,Lewisham,rating: -2 or less,2750,1770,nonMigrant
+E09000023,Lewisham,rating: +2 or more,22849,14709,Non-Migrant
+E09000023,Lewisham,rating: +1,33308,21442,Non-Migrant
+E09000023,Lewisham,rating: 0,52274,33652,Non-Migrant
+E09000023,Lewisham,rating: -1,11211,7217,Non-Migrant
+E09000023,Lewisham,rating: -2 or less,2750,1770,Non-Migrant
 E09000023,Lewisham,rating: +2 or more,22849,8140,Migrant
 E09000023,Lewisham,rating: +1,33308,11866,Migrant
 E09000023,Lewisham,rating: 0,52274,18622,Migrant
 E09000023,Lewisham,rating: -1,11211,3994,Migrant
 E09000023,Lewisham,rating: -2 or less,2750,980,Migrant
-E09000024,Merton,rating: +2 or more,23541,14883,nonMigrant
-E09000024,Merton,rating: +1,23381,14782,nonMigrant
-E09000024,Merton,rating: 0,27129,17152,nonMigrant
-E09000024,Merton,rating: -1,6208,3925,nonMigrant
-E09000024,Merton,rating: -2 or less,1470,929,nonMigrant
+E09000024,Merton,rating: +2 or more,23541,14883,Non-Migrant
+E09000024,Merton,rating: +1,23381,14782,Non-Migrant
+E09000024,Merton,rating: 0,27129,17152,Non-Migrant
+E09000024,Merton,rating: -1,6208,3925,Non-Migrant
+E09000024,Merton,rating: -2 or less,1470,929,Non-Migrant
 E09000024,Merton,rating: +2 or more,23541,8658,Migrant
 E09000024,Merton,rating: +1,23381,8599,Migrant
 E09000024,Merton,rating: 0,27129,9977,Migrant
 E09000024,Merton,rating: -1,6208,2283,Migrant
 E09000024,Merton,rating: -2 or less,1470,541,Migrant
-E09000025,Newham,rating: +2 or more,14463,6693,nonMigrant
-E09000025,Newham,rating: +1,26045,12053,nonMigrant
-E09000025,Newham,rating: 0,50136,23201,nonMigrant
-E09000025,Newham,rating: -1,18316,8476,nonMigrant
-E09000025,Newham,rating: -2 or less,6547,3030,nonMigrant
+E09000025,Newham,rating: +2 or more,14463,6693,Non-Migrant
+E09000025,Newham,rating: +1,26045,12053,Non-Migrant
+E09000025,Newham,rating: 0,50136,23201,Non-Migrant
+E09000025,Newham,rating: -1,18316,8476,Non-Migrant
+E09000025,Newham,rating: -2 or less,6547,3030,Non-Migrant
 E09000025,Newham,rating: +2 or more,14463,7770,Migrant
 E09000025,Newham,rating: +1,26045,13992,Migrant
 E09000025,Newham,rating: 0,50136,26935,Migrant
 E09000025,Newham,rating: -1,18316,9840,Migrant
 E09000025,Newham,rating: -2 or less,6547,3517,Migrant
-E09000026,Redbridge,rating: +2 or more,29194,16463,nonMigrant
-E09000026,Redbridge,rating: +1,27566,15545,nonMigrant
-E09000026,Redbridge,rating: 0,33324,18792,nonMigrant
-E09000026,Redbridge,rating: -1,10899,6146,nonMigrant
-E09000026,Redbridge,rating: -2 or less,2731,1540,nonMigrant
+E09000026,Redbridge,rating: +2 or more,29194,16463,Non-Migrant
+E09000026,Redbridge,rating: +1,27566,15545,Non-Migrant
+E09000026,Redbridge,rating: 0,33324,18792,Non-Migrant
+E09000026,Redbridge,rating: -1,10899,6146,Non-Migrant
+E09000026,Redbridge,rating: -2 or less,2731,1540,Non-Migrant
 E09000026,Redbridge,rating: +2 or more,29194,12731,Migrant
 E09000026,Redbridge,rating: +1,27566,12021,Migrant
 E09000026,Redbridge,rating: 0,33324,14532,Migrant
 E09000026,Redbridge,rating: -1,10899,4753,Migrant
 E09000026,Redbridge,rating: -2 or less,2731,1191,Migrant
-E09000027,Richmond upon Thames,rating: +2 or more,28502,20296,nonMigrant
-E09000027,Richmond upon Thames,rating: +1,25300,18016,nonMigrant
-E09000027,Richmond upon Thames,rating: 0,23682,16863,nonMigrant
-E09000027,Richmond upon Thames,rating: -1,2821,2009,nonMigrant
-E09000027,Richmond upon Thames,rating: -2 or less,400,285,nonMigrant
+E09000027,Richmond upon Thames,rating: +2 or more,28502,20296,Non-Migrant
+E09000027,Richmond upon Thames,rating: +1,25300,18016,Non-Migrant
+E09000027,Richmond upon Thames,rating: 0,23682,16863,Non-Migrant
+E09000027,Richmond upon Thames,rating: -1,2821,2009,Non-Migrant
+E09000027,Richmond upon Thames,rating: -2 or less,400,285,Non-Migrant
 E09000027,Richmond upon Thames,rating: +2 or more,28502,8206,Migrant
 E09000027,Richmond upon Thames,rating: +1,25300,7284,Migrant
 E09000027,Richmond upon Thames,rating: 0,23682,6819,Migrant
 E09000027,Richmond upon Thames,rating: -1,2821,812,Migrant
 E09000027,Richmond upon Thames,rating: -2 or less,400,115,Migrant
-E09000028,Southwark,rating: +2 or more,17780,10542,nonMigrant
-E09000028,Southwark,rating: +1,33974,20143,nonMigrant
-E09000028,Southwark,rating: 0,63094,37408,nonMigrant
-E09000028,Southwark,rating: -1,12735,7550,nonMigrant
-E09000028,Southwark,rating: -2 or less,3235,1918,nonMigrant
+E09000028,Southwark,rating: +2 or more,17780,10542,Non-Migrant
+E09000028,Southwark,rating: +1,33974,20143,Non-Migrant
+E09000028,Southwark,rating: 0,63094,37408,Non-Migrant
+E09000028,Southwark,rating: -1,12735,7550,Non-Migrant
+E09000028,Southwark,rating: -2 or less,3235,1918,Non-Migrant
 E09000028,Southwark,rating: +2 or more,17780,7238,Migrant
 E09000028,Southwark,rating: +1,33974,13831,Migrant
 E09000028,Southwark,rating: 0,63094,25686,Migrant
 E09000028,Southwark,rating: -1,12735,5185,Migrant
 E09000028,Southwark,rating: -2 or less,3235,1317,Migrant
-E09000029,Sutton,rating: +2 or more,23272,16812,nonMigrant
-E09000029,Sutton,rating: +1,25107,18138,nonMigrant
-E09000029,Sutton,rating: 0,28038,20255,nonMigrant
-E09000029,Sutton,rating: -1,5286,3819,nonMigrant
-E09000029,Sutton,rating: -2 or less,645,466,nonMigrant
+E09000029,Sutton,rating: +2 or more,23272,16812,Non-Migrant
+E09000029,Sutton,rating: +1,25107,18138,Non-Migrant
+E09000029,Sutton,rating: 0,28038,20255,Non-Migrant
+E09000029,Sutton,rating: -1,5286,3819,Non-Migrant
+E09000029,Sutton,rating: -2 or less,645,466,Non-Migrant
 E09000029,Sutton,rating: +2 or more,23272,6460,Migrant
 E09000029,Sutton,rating: +1,25107,6969,Migrant
 E09000029,Sutton,rating: 0,28038,7783,Migrant
 E09000029,Sutton,rating: -1,5286,1467,Migrant
 E09000029,Sutton,rating: -2 or less,645,179,Migrant
-E09000030,Tower Hamlets,rating: +2 or more,9039,4809,nonMigrant
-E09000030,Tower Hamlets,rating: +1,29162,15514,nonMigrant
-E09000030,Tower Hamlets,rating: 0,63208,33626,nonMigrant
-E09000030,Tower Hamlets,rating: -1,14882,7917,nonMigrant
-E09000030,Tower Hamlets,-2 or less,4248,2260,nonMigrant
+E09000030,Tower Hamlets,rating: +2 or more,9039,4809,Non-Migrant
+E09000030,Tower Hamlets,rating: +1,29162,15514,Non-Migrant
+E09000030,Tower Hamlets,rating: 0,63208,33626,Non-Migrant
+E09000030,Tower Hamlets,rating: -1,14882,7917,Non-Migrant
+E09000030,Tower Hamlets,-2 or less,4248,2260,Non-Migrant
 E09000030,Tower Hamlets,rating: +2 or more,9039,4230,Migrant
 E09000030,Tower Hamlets,rating: +1,29162,13648,Migrant
 E09000030,Tower Hamlets,rating: 0,63208,29582,Migrant
 E09000030,Tower Hamlets,rating: -1,14882,6965,Migrant
 E09000030,Tower Hamlets,-2 or less,4248,1988,Migrant
-E09000031,Waltham Forest,rating: +2 or more,21746,13361,nonMigrant
-E09000031,Waltham Forest,rating: +1,28709,17639,nonMigrant
-E09000031,Waltham Forest,rating: 0,38615,23726,nonMigrant
-E09000031,Waltham Forest,rating: -1,10794,6632,nonMigrant
-E09000031,Waltham Forest,-2 or less,3039,1867,nonMigrant
+E09000031,Waltham Forest,rating: +2 or more,21746,13361,Non-Migrant
+E09000031,Waltham Forest,rating: +1,28709,17639,Non-Migrant
+E09000031,Waltham Forest,rating: 0,38615,23726,Non-Migrant
+E09000031,Waltham Forest,rating: -1,10794,6632,Non-Migrant
+E09000031,Waltham Forest,-2 or less,3039,1867,Non-Migrant
 E09000031,Waltham Forest,rating: +2 or more,21746,8385,Migrant
 E09000031,Waltham Forest,rating: +1,28709,11070,Migrant
 E09000031,Waltham Forest,rating: 0,38615,14889,Migrant
 E09000031,Waltham Forest,rating: -1,10794,4162,Migrant
 E09000031,Waltham Forest,-2 or less,3039,1172,Migrant
-E09000032,Wandsworth,rating: +2 or more,29689,18432,nonMigrant
-E09000032,Wandsworth,rating: +1,38614,23972,nonMigrant
-E09000032,Wandsworth,rating: 0,58750,36473,nonMigrant
-E09000032,Wandsworth,rating: -1,8742,5427,nonMigrant
-E09000032,Wandsworth,-2 or less,1598,992,nonMigrant
+E09000032,Wandsworth,rating: +2 or more,29689,18432,Non-Migrant
+E09000032,Wandsworth,rating: +1,38614,23972,Non-Migrant
+E09000032,Wandsworth,rating: 0,58750,36473,Non-Migrant
+E09000032,Wandsworth,rating: -1,8742,5427,Non-Migrant
+E09000032,Wandsworth,-2 or less,1598,992,Non-Migrant
 E09000032,Wandsworth,rating: +2 or more,29689,11257,Migrant
 E09000032,Wandsworth,rating: +1,38614,14642,Migrant
 E09000032,Wandsworth,rating: 0,58750,22277,Migrant
 E09000032,Wandsworth,rating: -1,8742,3315,Migrant
 E09000032,Wandsworth,-2 or less,1598,606,Migrant
-E09000033,Westminster,rating: +2 or more,11541,5125,nonMigrant
-E09000033,Westminster,rating: +1,25088,11142,nonMigrant
-E09000033,Westminster,rating: 0,48474,21527,nonMigrant
-E09000033,Westminster,rating: -1,7658,3401,nonMigrant
-E09000033,Westminster,-2 or less,2053,912,nonMigrant
+E09000033,Westminster,rating: +2 or more,11541,5125,Non-Migrant
+E09000033,Westminster,rating: +1,25088,11142,Non-Migrant
+E09000033,Westminster,rating: 0,48474,21527,Non-Migrant
+E09000033,Westminster,rating: -1,7658,3401,Non-Migrant
+E09000033,Westminster,-2 or less,2053,912,Non-Migrant
 E09000033,Westminster,rating: +2 or more,11541,6416,Migrant
 E09000033,Westminster,rating: +1,25088,13946,Migrant
 E09000033,Westminster,rating: 0,48474,26947,Migrant
